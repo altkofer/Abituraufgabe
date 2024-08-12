@@ -1,0 +1,180 @@
+\usepackage[utf8]{inputenc}
+\usepackage[main=ngerman, english]{babel} %Sprachunterstützung Deutsch, Englisch
+\usepackage{scrhack} %removes compatibility errors connected to scr document type
+
+%---------------------------------------------------------------------------------------------------
+% PAGE SETUP
+\usepackage{geometry}
+\geometry{
+    a4paper,
+    left=25mm,
+	right=60mm,
+	top=25mm,
+	bottom=25mm
+}
+
+% \usepackage{arev}
+%\usepackage{cmbright}
+%\usepackage{libertine}
+%\usepackage[libertine,cmintegrals,cmbraces,vvarbb]{newtxmath}
+%\let\Bbbk\relax
+
+%\usepackage[scaled]{helvet}
+\usepackage[T1]{fontenc}
+%\renewcommand\familydefault{\sfdefault}
+
+%\usepackage{newpxmath}	% Serifenschrift für Text und Formeln laden
+%\let\Bbbk\relax
+%\usepackage[semibold,sfdefault]{sourcesanspro}% Source Sans Pro Font laden
+\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+
+\usepackage{scrlayer-scrpage} %makes nice headers and footers
+\clearpairofpagestyles
+\chead{\headmark}
+\refoot*{\pagemark}
+\rofoot*{\pagemark}
+
+
+\usepackage{lipsum}
+
+\parindent0cm
+
+%---------------------------------------------------------------------------------------------------
+% CITATION SETUP
+
+\usepackage[babel]{csquotes}
+\usepackage[
+backend=biber,
+style=apa
+]{biblatex}
+\DeclareLanguageMapping{german}{german-apa}
+
+
+
+\DefineBibliographyStrings{ngerman}{
+	andothers = {{et\,al\adddot}},
+}
+
+\addbibresource{mybib.bib}
+
+\AtEveryBibitem{\clearfield{urldate}}
+\AtEveryCitekey{\clearfield{urldate}}
+\AtEveryBibitem{\clearfield{urlyear}}
+\AtEveryCitekey{\clearfield{urlyear}}
+\AtEveryBibitem{\clearfield{urlmonth}}
+\AtEveryCitekey{\clearfield{urlmonth}}
+\AtEveryBibitem{\clearfield{issn}}
+\AtEveryCitekey{\clearfield{issn}}
+
+
+%\renewcommand{\thechapter}{\Roman{chapter}}
+%\renewcommand{\thesection}{\Alph{section}}
+%\renewcommand{\thesubsection}{\arabic{subsection}}
+\usepackage{enumitem} % provides user control over the layout of the three basic list environments: enumerate, itemize and description.
+\usepackage{pdfpages} % simplifies the inclusion of external multi-page PDF documents in LATEX documents
+\usepackage{amsmath,amssymb,amsfonts}
+
+% ---------------------------------------------------------
+% TYPESETTING
+\usepackage[
+    left = \glqq{},%
+    right = \grqq{},%
+    leftsub = \grq{},%
+    rightsub = \glq{}
+    ]{dirtytalk} %quotation marks
+%\usepackage{miller} % for Miller indices
+
+\usepackage{booktabs} % nice tables
+\renewcommand{\arraystretch}{1.2}
+
+\newcommand{\fremdspr}[2]{#1: \textit{#2}}
+\usepackage{color}
+
+\usepackage[euler]{textgreek} %typeset greek letters w/o math mode
+
+\usepackage{microtype} %minimale Verbesserungen für schönes Typesetting ohne overfull boxes
+
+\usepackage{acronym} %Abkürzungen
+
+%---------------------------------------------------------------------------------------------------
+% GRAPHICAL TOOLS
+\usepackage{wrapfig} %wrapping figures
+\usepackage{booktabs} %tables
+\usepackage{graphicx} %Graphiken
+
+% Setze den Standard-Bilderpfad
+\graphicspath{{Bilder/}}
+
+\usepackage{caption} %exactly that
+\captionsetup{format = plain, indention = .5cm}
+\usepackage{sidecap} %caption aside the figure
+\usepackage{subcaption} %subfigures
+\usepackage{float} %more precise placement of figures etc
+
+
+
+%---------------------------------------------------------------------------------------------------
+% MATH TYPESETTING
+\usepackage{mathtools} % some tools to make math expressions look nicer
+\usepackage{amsmath} % math typesetting
+
+\usepackage{siunitx} %makes SI units pretty
+\let\qty\SI 		%some magic as siunitx and physics both use \qty
+\let\qty\relax
+\usepackage{physics}
+\sisetup{separate-uncertainty}
+\DeclareSIUnit\Bar{bar}
+\DeclareSIUnit\debye{D}
+
+\sisetup{locale = DE}
+
+\usepackage[version=4]{mhchem}
+\usepackage{chemfig}
+
+\renewcommand\epsilon\varepsilon %schöneres Epsilon
+
+%---------------------------------------------------------------------------------------------------
+% REFERENCES
+\usepackage[hidelinks]{hyperref}
+\usepackage[german]{cleveref}
+\usepackage{qrcode}
+\usepackage{url}
+\PassOptionsToPackage{hyphens}{url}
+
+%---------------------------------------------------------------------------------------------------
+% plots & tikz
+
+\usepackage{tikz}
+\usepackage{tikz-3dplot}
+\usetikzlibrary{shapes,decorations,calc}
+%\usepackage{pgfplots}
+
+%---------------------------------------------------------------------------------------------------
+% silence warnings
+%\usepackage{silence}
+
+%---------------------------------------------------------------------------------------------------
+%Abkürzungen
+
+\newcommand{\vgl}{vgl.\ }
+\newcommand{\sog}{sog.\ }
+\newcommand{\zB}{z.\,B.\ }
+\let\dh\relax
+\newcommand{\dh}{d.\,h.\ }
+\newcommand{\ua}{u.\,a.\ }
+
+%---------------------------------------------------------------------------------------------------
+%Boxen
+\usepackage[breakable, skins]{tcolorbox}
+
+\newtcolorbox{ziele}%
+{colback=yellow!5,colframe=yellow!85!black!60!white,fonttitle=\sffamily\bfseries, coltitle=black, sharp corners, boxrule=2pt, title=Lernziele, after skip=65pt}
+
+\newtcolorbox{uea}%
+{colback=white,colframe=cyan!50, fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Übungsaufgabe, beforeafter skip=0.75\baselineskip}
+
+
+
+
+
