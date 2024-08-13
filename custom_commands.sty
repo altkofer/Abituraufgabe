@@ -4,3 +4,28 @@
 \def\sip{\par\smallskip}
 \def\mip{\par\medskip  }
 \def\bip{\par\bigskip  }
+\def\nip{\par          } % noskip
+
+\def\q{\quad}
+
+\def\pph{\paragraph*} 
+
+\def\NL{\strut \hfill \strut \newline} % fill newline
+        % Zu verwenden innerhalb von Tabellen-parboxes
+        
+\def\const{\mbox{const}}
+
+\def\fparbox#1#2{ \fbox{\parbox{#1}{#2}}  }
+\def\ffparbox#1#2{ \fbox\fbox{{\parbox{#1}{#2}}}  }
+
+% Doppelst\"{o}ckige Schreibweise (doublestack)
+\def\dst#1#2{\mbox{$ \left\{ \begin{array}{@{}l@{}}\mbox{#1}\\\mbox{#2}\end{array}
+                     \right.
+                   $}
+            }
+            
+\def\ST{\vvstrut{1.5ex}{4.5ex}} % macht Boxhöhen in Tabellen konstant
+
+\def\ctr{ \leftrightsquigarrow }
+
+%\newcommand{\fullcite}[1]{\citeauthor{#1}: \citetitle{#1}, \citeyear{#1}.}

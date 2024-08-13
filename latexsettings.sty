@@ -96,11 +96,13 @@ style=apa
 \usepackage{microtype} %minimale Verbesserungen für schönes Typesetting ohne overfull boxes
 
 \usepackage{acronym} %Abkürzungen
+\usepackage{tabto} % erlaubt flexible Tabstopps
 
 %---------------------------------------------------------------------------------------------------
 % GRAPHICAL TOOLS
 \usepackage{wrapfig} %wrapping figures
 \usepackage{booktabs} %tables
+\usepackage{marginnote} %margins settings
 \usepackage{graphicx} %Graphiken
 
 % Setze den Standard-Bilderpfad
@@ -124,6 +126,7 @@ style=apa
 \let\qty\relax
 \usepackage{physics}
 \sisetup{separate-uncertainty}
+\sisetup{detect-all} % use text font for units
 \DeclareSIUnit\Bar{bar}
 \DeclareSIUnit\debye{D}
 
