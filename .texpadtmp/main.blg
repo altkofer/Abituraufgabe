@@ -1,9 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.blg'
-[28] biber-darwin:340> INFO - === Mon Aug 12, 2024, 16:44:58
-[34] Biber.pm:419> INFO - Reading '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf'
-[71] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[80] bbl.pm:660> INFO - Writing '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[80] bbl.pm:763> INFO - Output to /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl
-[80] Biber.pm:131> WARN - The file '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf' does not contain any citations!
-[80] Biber.pm:133> INFO - WARNINGS: 1
+[28] biber-darwin:340> INFO - === Tue Aug 13, 2024, 10:01:12
+[35] Biber.pm:419> INFO - Reading '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf'
+[73] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[83] bbl.pm:660> INFO - Writing '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl' with encoding 'UTF-8'
+[83] bbl.pm:763> INFO - Output to /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl
+[83] Biber.pm:131> WARN - The file '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf' does not contain any citations!
+[83] Biber.pm:133> INFO - WARNINGS: 1
