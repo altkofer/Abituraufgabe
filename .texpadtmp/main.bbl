@@ -126,6 +126,58 @@
       \field{title}{Fachdidaktik {P}hysik}
       \field{year}{1991}
     \endentry
+    \entry{Bloom}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ddc586c6eb221cd90bc71bc15c3e6fc1}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fad4a136c526cb05d628318e64983d}{%
+           family={Engelhart},
+           familyi={E\bibinitperiod},
+           given={Max\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d912884f00ec5e5f26b7f4de893403}{%
+           family={Furst},
+           familyi={F\bibinitperiod},
+           given={Edward\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f594583f5595ce6149315a63bd180d1d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Walker\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{237e32f78ccc56bb1ba7ff064059169a}
+      \strng{fullhash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{bibnamehash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{authorbibnamehash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{authornamehash}{237e32f78ccc56bb1ba7ff064059169a}
+      \strng{authorfullhash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taxonomy of Educational Objectives: {{The}} Classification of Educational Goals. {{Handbook I}}: {{Cognitive}} Domain}
+      \field{year}{1956}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/ZGW3AJNL/Benjamin S. Bloom - Taxonomy of Educational Objectives, Handbook 1_ Cognitive Domain-Addison Wesley Publishing Company (1956).pdf
+      \endverb
+    \endentry
     \entry{Boxer}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=95de351517819241bfbb5e94da5ba758}{%
@@ -356,6 +408,43 @@
       \field{note}{Nachdruck von Verlag O.\ Salle 1933}
       \field{title}{Spiel und Spielzeug im {P}hysik{U}nterricht}
       \field{year}{1995}
+    \endentry
+    \entry{Gagne}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=236bb2626422f9949fdccafeaa2189ba}{%
+           family={Gagné},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C}%
+      }
+      \strng{namehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{fullhash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{bibnamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authorbibnamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authornamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authorfullhash}{236bb2626422f9949fdccafeaa2189ba}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Teaching {{Machines}} and {{Programmed Learning}}. {{Data}} and {{Directions}}}
+      \field{title}{The {{Analysis}} of {{Instructional Objectives}} for the {{Desifn}} of {{Instruction}}}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/C9D5M3Z6/ED028638.pdf
+      \endverb
     \endentry
     \entry{JankMeyer}{book}{}
       \name{author}{2}{}{%
@@ -592,6 +681,79 @@
       \field{edition}{4}
       \field{title}{Physikdidaktik, Grundlagen}
       \field{year}{2020}
+    \endentry
+    \entry{KMK}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
+           family={{KMK -- Ständige Konferenz der Kultusminister in der Bundesrepublik Deutschland}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{fullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{bibnamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authorbibnamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authornamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authorfullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Bildungsstandards Im {{Fach Pysik}} Für Den {{Mittleren Schulabschluss}}}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Krathwohl}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis, Ltd.}%
+      }
+      \strng{namehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{bibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorbibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authornamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
+      \field{issn}{0040-5841}
+      \field{journaltitle}{Theory Into Practice}
+      \field{number}{4}
+      \field{shorttitle}{A Revision of Bloom's Taxonomy}
+      \field{title}{A Revision of Bloom's Taxonomy: {{An}} Overview}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{212\bibrangedash 218}
+      \range{pages}{7}
+      \verb{eprint}
+      \verb 1477405
+      \endverb
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
+      \endverb
     \endentry
     \entry{LabuddeEWP}{book}{}
       \name{author}{1}{}{%
@@ -1131,6 +1293,41 @@
       \field{labeltitlesource}{title}
       \field{title}{Naturphänomene sehen und verstehen}
       \field{year}{?}
+    \endentry
+    \entry{Weinert}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=0111d339d0bfd6cb02dab3daba78e159}{%
+           family={Weinert},
+           familyi={W\bibinitperiod},
+           given={Franz\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim Basel}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{fullhash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{bibnamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editorbibnamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editornamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editorfullhash}{0111d339d0bfd6cb02dab3daba78e159}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{3., aktualisierte Aufl}
+      \field{isbn}{978-3-407-29318-3 978-3-407-25690-4}
+      \field{langid}{german}
+      \field{series}{{Pädagogik}}
+      \field{title}{{Leistungsmessungen in Schulen}}
+      \field{year}{2014}
     \endentry
     \entry{Willer}{book}{}
       \name{author}{1}{}{%
@@ -1301,6 +1498,58 @@
       \field{title}{Fachdidaktik {P}hysik}
       \field{year}{1991}
     \endentry
+    \entry{Bloom}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ddc586c6eb221cd90bc71bc15c3e6fc1}{%
+           family={Bloom},
+           familyi={B\bibinitperiod},
+           given={Benjamin\bibnamedelima S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fad4a136c526cb05d628318e64983d}{%
+           family={Engelhart},
+           familyi={E\bibinitperiod},
+           given={Max\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4d912884f00ec5e5f26b7f4de893403}{%
+           family={Furst},
+           familyi={F\bibinitperiod},
+           given={Edward\bibnamedelima J.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f594583f5595ce6149315a63bd180d1d}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Walker\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{237e32f78ccc56bb1ba7ff064059169a}
+      \strng{fullhash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{bibnamehash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{authorbibnamehash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \strng{authornamehash}{237e32f78ccc56bb1ba7ff064059169a}
+      \strng{authorfullhash}{03a1ef4548be968521c0e529ae5fbd2a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taxonomy of Educational Objectives: {{The}} Classification of Educational Goals. {{Handbook I}}: {{Cognitive}} Domain}
+      \field{year}{1956}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/ZGW3AJNL/Benjamin S. Bloom - Taxonomy of Educational Objectives, Handbook 1_ Cognitive Domain-Addison Wesley Publishing Company (1956).pdf
+      \endverb
+    \endentry
     \entry{Boxer}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=95de351517819241bfbb5e94da5ba758}{%
@@ -1531,6 +1780,43 @@
       \field{note}{Nachdruck von Verlag O.\ Salle 1933}
       \field{title}{Spiel und Spielzeug im {P}hysik{U}nterricht}
       \field{year}{1995}
+    \endentry
+    \entry{Gagne}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=236bb2626422f9949fdccafeaa2189ba}{%
+           family={Gagné},
+           familyi={G\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C}%
+      }
+      \strng{namehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{fullhash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{bibnamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authorbibnamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authornamehash}{236bb2626422f9949fdccafeaa2189ba}
+      \strng{authorfullhash}{236bb2626422f9949fdccafeaa2189ba}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Teaching {{Machines}} and {{Programmed Learning}}. {{Data}} and {{Directions}}}
+      \field{title}{The {{Analysis}} of {{Instructional Objectives}} for the {{Desifn}} of {{Instruction}}}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{2}
+      \field{year}{1965}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/C9D5M3Z6/ED028638.pdf
+      \endverb
     \endentry
     \entry{JankMeyer}{book}{}
       \name{author}{2}{}{%
@@ -1767,6 +2053,79 @@
       \field{labeltitlesource}{title}
       \field{title}{Physikdidaktik in der Praxis}
       \field{year}{2002}
+    \endentry
+    \entry{KMK}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
+           family={{KMK -- Ständige Konferenz der Kultusminister in der Bundesrepublik Deutschland}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{fullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{bibnamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authorbibnamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authornamehash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{authorfullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Bildungsstandards Im {{Fach Pysik}} Für Den {{Mittleren Schulabschluss}}}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Krathwohl}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=783eb677bc36afc2d47e7e01ecdaec4a}{%
+           family={Krathwohl},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis, Ltd.}%
+      }
+      \strng{namehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{fullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{bibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorbibnamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authornamehash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \strng{authorfullhash}{783eb677bc36afc2d47e7e01ecdaec4a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{jstor}
+      \field{issn}{0040-5841}
+      \field{journaltitle}{Theory Into Practice}
+      \field{number}{4}
+      \field{shorttitle}{A Revision of Bloom's Taxonomy}
+      \field{title}{A Revision of Bloom's Taxonomy: {{An}} Overview}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{urldateera}{ce}
+      \field{pages}{212\bibrangedash 218}
+      \range{pages}{7}
+      \verb{eprint}
+      \verb 1477405
+      \endverb
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
+      \endverb
     \endentry
     \entry{LabuddeEWP}{book}{}
       \name{author}{1}{}{%
@@ -2306,6 +2665,41 @@
       \field{labeltitlesource}{title}
       \field{title}{Naturphänomene sehen und verstehen}
       \field{year}{?}
+    \endentry
+    \entry{Weinert}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=0111d339d0bfd6cb02dab3daba78e159}{%
+           family={Weinert},
+           familyi={W\bibinitperiod},
+           given={Franz\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim Basel}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{fullhash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{bibnamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editorbibnamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editornamehash}{0111d339d0bfd6cb02dab3daba78e159}
+      \strng{editorfullhash}{0111d339d0bfd6cb02dab3daba78e159}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{edition}{3., aktualisierte Aufl}
+      \field{isbn}{978-3-407-29318-3 978-3-407-25690-4}
+      \field{langid}{german}
+      \field{series}{{Pädagogik}}
+      \field{title}{{Leistungsmessungen in Schulen}}
+      \field{year}{2014}
     \endentry
     \entry{Willer}{book}{}
       \name{author}{1}{}{%

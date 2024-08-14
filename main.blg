@@ -1,42 +1,42 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[34] biber-darwin:340> INFO - === Tue Aug 13, 2024, 15:45:03
-[42] Biber.pm:419> INFO - Reading 'main.bcf'
-[97] Biber.pm:979> INFO - Found 37 citekeys in bib section 0
-[107] Biber.pm:4419> INFO - Processing section 0
-[111] Biber.pm:4610> INFO - Looking for bibtex file 'mybib.bib' for section 0
-[112] bibtex.pm:1713> INFO - LaTeX decoding ...
-[128] bibtex.pm:1519> INFO - Found BibTeX data source 'mybib.bib'
-[234] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[234] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[234] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[234] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[267] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[267] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[267] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[267] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[283] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[299] bbl.pm:763> INFO - Output to main.bbl
-[299] Biber.pm:131> WARN - Duplicate entry key: 'JankMeyer' in file 'mybib.bib', skipping ...
-[299] Biber.pm:131> WARN - ISBN '987-3-589-21566-9' in entry 'JankMeyer' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - legacy year field '?' in entry 'WagenscheinNSV' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - legacy year field '???' in entry 'Reble2' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - ISBN '987-3-8252-5207-6' in entry 'LabuddeMetzger' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - ISBN '987-3-662-57269-6' in entry 'Schecker' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - ISBN '987-3-662-63052-5' in entry 'Wilhelm' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - ISBN '987-1-913622-78-7' in entry 'Boxer' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - ISBN '987-3-486-71624-5' in entry 'JPMeyn' is invalid - run biber with '--validate_datamodel' for details.
-[299] Biber.pm:131> WARN - legacy year field '19??' in entry 'Reble1' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - legacy year field '19??' in entry 'Lindenblatt' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - legacy year field '19??' in entry 'Berge' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - legacy year field '19??' in entry 'MelenkRunge' is not an integer - this will probably not sort properly.
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 71, warning: undefined macro "bsv"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 124, warning: undefined macro "Springer"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 130, warning: undefined macro "Springer"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 186, warning: undefined macro "Deubner"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 229, warning: undefined macro "Klett"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 236, warning: undefined macro "Klett"
-[299] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_zs_N/a8094735c119eb7484f88d2d1d93d883_73195.utf8, line 287, warning: undefined macro "Deubner"
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Stoecker' (section 0)
-[299] Biber.pm:131> WARN - I didn't find a database entry for 'Koeck' (section 0)
-[299] Biber.pm:133> INFO - WARNINGS: 22
+[35] biber-darwin:340> INFO - === Wed Aug 14, 2024, 14:48:26
+[43] Biber.pm:419> INFO - Reading 'main.bcf'
+[98] Biber.pm:979> INFO - Found 40 citekeys in bib section 0
+[109] Biber.pm:4419> INFO - Processing section 0
+[113] Biber.pm:4610> INFO - Looking for bibtex file 'mybib.bib' for section 0
+[114] bibtex.pm:1713> INFO - LaTeX decoding ...
+[132] bibtex.pm:1519> INFO - Found BibTeX data source 'mybib.bib'
+[247] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[247] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[247] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[247] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[282] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[282] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[282] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[282] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[300] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[317] bbl.pm:763> INFO - Output to main.bbl
+[317] Biber.pm:131> WARN - Duplicate entry key: 'JankMeyer' in file 'mybib.bib', skipping ...
+[317] Biber.pm:131> WARN - ISBN '987-3-589-21566-9' in entry 'JankMeyer' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - legacy year field '?' in entry 'WagenscheinNSV' is not an integer - this will probably not sort properly.
+[317] Biber.pm:131> WARN - legacy year field '???' in entry 'Reble2' is not an integer - this will probably not sort properly.
+[317] Biber.pm:131> WARN - ISBN '987-3-8252-5207-6' in entry 'LabuddeMetzger' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - ISBN '987-3-662-57269-6' in entry 'Schecker' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - ISBN '987-3-662-63052-5' in entry 'Wilhelm' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - ISBN '987-1-913622-78-7' in entry 'Boxer' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - ISBN '987-3-486-71624-5' in entry 'JPMeyn' is invalid - run biber with '--validate_datamodel' for details.
+[317] Biber.pm:131> WARN - legacy year field '19??' in entry 'Reble1' is not an integer - this will probably not sort properly.
+[317] Biber.pm:131> WARN - legacy year field '19??' in entry 'Lindenblatt' is not an integer - this will probably not sort properly.
+[317] Biber.pm:131> WARN - legacy year field '19??' in entry 'Berge' is not an integer - this will probably not sort properly.
+[318] Biber.pm:131> WARN - legacy year field '19??' in entry 'MelenkRunge' is not an integer - this will probably not sort properly.
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 71, warning: undefined macro "bsv"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 124, warning: undefined macro "Springer"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 130, warning: undefined macro "Springer"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 186, warning: undefined macro "Deubner"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 229, warning: undefined macro "Klett"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 236, warning: undefined macro "Klett"
+[318] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_2yxo/a8094735c119eb7484f88d2d1d93d883_48814.utf8, line 287, warning: undefined macro "Deubner"
+[318] Biber.pm:131> WARN - I didn't find a database entry for 'Stoecker' (section 0)
+[318] Biber.pm:131> WARN - I didn't find a database entry for 'Koeck' (section 0)
+[318] Biber.pm:133> INFO - WARNINGS: 22

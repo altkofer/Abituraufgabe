@@ -87,9 +87,13 @@ style=apa
 
 \usepackage{booktabs} % nice tables
 \renewcommand{\arraystretch}{1.2}
+\usepackage{multirow} % Zellen verschmelzen in Tabellen
 
 \newcommand{\fremdspr}[2]{#1: \textit{#2}}
-\usepackage{color}
+\usepackage{xcolor}
+\definecolor{ubt_gruen}{RGB}{0,146,96}
+\definecolor{ubt_bg}{RGB}{235,235,228}
+\definecolor{ubt_orange}{RGB}{255,183,44}
 
 \usepackage[euler]{textgreek} %typeset greek letters w/o math mode
 
@@ -172,10 +176,14 @@ style=apa
 \usepackage[breakable, skins]{tcolorbox}
 
 \newtcolorbox{ziele}%
-{colback=yellow!5,colframe=yellow!85!black!60!white,fonttitle=\sffamily\bfseries, coltitle=black, sharp corners, boxrule=2pt, title=Lernziele, after skip=65pt}
+{colback=ubt_bg,colframe=ubt_gruen,fonttitle=\sffamily\bfseries, coltitle=white, sharp corners, boxrule=2pt, title=Lernziele, after skip=65pt}
 
 \newtcolorbox{uea}%
-{colback=white,colframe=cyan!50, fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Übungsaufgabe, beforeafter skip=0.75\baselineskip}
+{colback=ubt_bg,colframe=ubt_orange,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Übungsaufgabe, beforeafter skip=0.75\baselineskip}
+
+\newtcolorbox{beisp}%
+{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiel, beforeafter skip=0.75\baselineskip}
+
 
 
 
