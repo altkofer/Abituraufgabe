@@ -28,118 +28,119 @@
 \contentsline {section}{\numberline {7.6}Beispiele}{35}{section.7.6}%
 \contentsline {chapter}{\numberline {8}Aufbereiten von Unterrichtsinhalten}{41}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Didaktische Analyse nach Klafki / Kritisch-konstruktive Didaktik}{41}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Elementarisierung von Inhalten und didaktische Rekonstruktion}{42}{section.8.2}%
+\contentsline {section}{\numberline {8.2}Elementarisierung und didaktische Rekonstruktion}{42}{section.8.2}%
 \contentsline {subsection}{\numberline {8.2.1}Elementarisierung}{42}{subsection.8.2.1}%
-\contentsline {subsection}{\numberline {8.2.2}Typen der Elementarisierung}{43}{subsection.8.2.2}%
-\contentsline {subsection}{\numberline {8.2.3}Verwandte didaktische Begriffsbildungen}{48}{subsection.8.2.3}%
-\contentsline {subsection}{\numberline {8.2.4}Weitere Beispiele}{49}{subsection.8.2.4}%
-\contentsline {section}{\numberline {8.3}Didaktische Rekonstruktion}{50}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Modelle und Analogien im Physikunterricht}{50}{section.8.4}%
-\contentsline {subsection}{\numberline {8.4.1}Analogien}{50}{subsection.8.4.1}%
-\contentsline {subsection}{\numberline {8.4.2}Modelle}{52}{subsection.8.4.2}%
-\contentsline {chapter}{\numberline {9}Strukturierung des Unterrichts}{57}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Unterrichtsprinzipien}{57}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Die Planungsebenen im Unterrichtsentwurf}{61}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Artikulationsschemata}{62}{section.9.3}%
-\contentsline {subsection}{\numberline {9.3.1}Herbart: Die Formalstufen}{63}{subsection.9.3.1}%
-\contentsline {subsection}{\numberline {9.3.2}Heinrich Roth (1963): Die Lernstufen}{64}{subsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{65}{subsection.9.3.3}%
-\contentsline {subsection}{\numberline {9.3.4}H.F.\ Bauer: Experimentalunterricht}{65}{subsection.9.3.4}%
-\contentsline {subsection}{\numberline {9.3.5}Kerschensteiner (1914)}{66}{subsection.9.3.5}%
-\contentsline {subsection}{\numberline {9.3.6}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{66}{subsection.9.3.6}%
-\contentsline {subsection}{\numberline {9.3.7}Probleml\"{o}sendes Verfahren - Das Normalverfahren nach Mothes}{66}{subsection.9.3.7}%
-\contentsline {subsection}{\numberline {9.3.8}Die Phase der Motivation}{67}{subsection.9.3.8}%
-\contentsline {subsection}{\numberline {9.3.9}Einstiege in eine Unterrichtseinheit}{68}{subsection.9.3.9}%
-\contentsline {subsection}{\numberline {9.3.10}Das Aufstellen einer Vermutung bzw. Hypothese}{70}{subsection.9.3.10}%
-\contentsline {section}{\numberline {9.4}Unterrichtsverfahren}{70}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Das genetische Unterrichtsverfahren}{71}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Forschender Unterricht}{73}{section.9.6}%
-\contentsline {subsection}{\numberline {9.6.1}Georg Kerschensteiner}{73}{subsection.9.6.1}%
-\contentsline {subsection}{\numberline {9.6.2}Kerngedanken seines p\"{a}dagogischen Programms}{73}{subsection.9.6.2}%
-\contentsline {subsection}{\numberline {9.6.3}Die Idee des forschenden Unterrichts}{74}{subsection.9.6.3}%
-\contentsline {section}{\numberline {9.7}Nacherfindender Unterricht}{74}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Historisierender Unterricht}{74}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Induktiv-deduktives Verfahren}{75}{section.9.9}%
-\contentsline {subsection}{\numberline {9.9.1}Das induktive Verfahren}{75}{subsection.9.9.1}%
-\contentsline {subsection}{\numberline {9.9.2}Das deduktive Verfahren}{76}{subsection.9.9.2}%
-\contentsline {section}{\numberline {9.10}Sinnvoll \"{u}bernehmender Unterricht}{77}{section.9.10}%
-\contentsline {chapter}{\numberline {10}Methodische Gestaltung des Unterrichts}{79}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Handlungs- oder Aktionsformen}{79}{section.10.1}%
-\contentsline {subsection}{\numberline {10.1.1}Vortrag}{79}{subsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.1.2}Lehrgespr\"{a}ch}{80}{subsection.10.1.2}%
-\contentsline {section}{\numberline {10.2}Sozialformen}{80}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}Arbeit im Klassenverband}{81}{subsection.10.2.1}%
-\contentsline {subsection}{\numberline {10.2.2}Arbeit in Kleingruppen}{81}{subsection.10.2.2}%
-\contentsline {subsection}{\numberline {10.2.3}Partnerarbeit}{82}{subsection.10.2.3}%
-\contentsline {subsection}{\numberline {10.2.4}Einzelarbeit}{82}{subsection.10.2.4}%
-\contentsline {section}{\numberline {10.3}Organisationsformen}{82}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}Klassen- und Fachlehrerprinzip}{83}{subsection.10.3.1}%
-\contentsline {subsection}{\numberline {10.3.2}Zeitstruktur des Unterrichts}{83}{subsection.10.3.2}%
-\contentsline {subsection}{\numberline {10.3.3}Au{\ss }erschulische Lernorte}{84}{subsection.10.3.3}%
-\contentsline {subsection}{\numberline {10.3.4}Projekt --- projektorientierter Unterricht}{84}{subsection.10.3.4}%
-\contentsline {section}{\numberline {10.4}Lernen an Stationen}{88}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Fach\"{u}bergreifender Unterricht}{91}{section.10.5}%
-\contentsline {subsection}{\numberline {10.5.1}Begriffe --- Alternativen}{91}{subsection.10.5.1}%
-\contentsline {subsection}{\numberline {10.5.2}Wissenschaftstheoretische Aspekte}{91}{subsection.10.5.2}%
-\contentsline {subsection}{\numberline {10.5.3}Unterrichtsprinzipien}{91}{subsection.10.5.3}%
-\contentsline {subsection}{\numberline {10.5.4}Lerntheoretische Aspekte}{92}{subsection.10.5.4}%
-\contentsline {subsection}{\numberline {10.5.5}Organisatorische Aspekte}{92}{subsection.10.5.5}%
-\contentsline {subsection}{\numberline {10.5.6}Grundhaltung der Physik und Physikdidaktik}{92}{subsection.10.5.6}%
-\contentsline {subsection}{\numberline {10.5.7}M\"{o}gliche Leitmotive}{93}{subsection.10.5.7}%
-\contentsline {subsection}{\numberline {10.5.8}M\"{o}gliche Themenbereiche}{93}{subsection.10.5.8}%
-\contentsline {section}{\numberline {10.6}Eigenverantwortliches Arbeiten}{94}{section.10.6}%
-\contentsline {subsection}{\numberline {10.6.1}Arbeitsdefinition}{94}{subsection.10.6.1}%
-\contentsline {subsection}{\numberline {10.6.2}Methodische Umsetzung von EVA}{94}{subsection.10.6.2}%
-\contentsline {subsection}{\numberline {10.6.3}Psychologische Begr\"undung}{94}{subsection.10.6.3}%
-\contentsline {subsection}{\numberline {10.6.4}Verwandte Konzepte}{95}{subsection.10.6.4}%
-\contentsline {subsection}{\numberline {10.6.5}Umsetzung im LehrplanPlus}{95}{subsection.10.6.5}%
-\contentsline {chapter}{\numberline {11}Der schriftliche Unterrichtsentwurf}{97}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Experimentieren im Physikunterricht}{101}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Das Experiment als physikalisch- erkenntnistheoretische Methode}{101}{section.12.1}%
-\contentsline {subsection}{\numberline {12.1.1}Kennzeichen von Experimenten}{102}{subsection.12.1.1}%
-\contentsline {section}{\numberline {12.2}Das Experiment als unterrichtlich-lerntheoretische Methode}{102}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Klassifikation von Unterrichtsexperimenten}{103}{section.12.3}%
-\contentsline {subsection}{\numberline {12.3.1}Erkenntnistheoretische Funktion}{103}{subsection.12.3.1}%
-\contentsline {subsection}{\numberline {12.3.2}Zeitliche Einordnung in einer Unterrichtseinheit}{103}{subsection.12.3.2}%
-\contentsline {subsection}{\numberline {12.3.3}Intensit\"{a}t und Art der Auswertung}{103}{subsection.12.3.3}%
-\contentsline {subsection}{\numberline {12.3.4}Art der Repr\"{a}sentation}{104}{subsection.12.3.4}%
-\contentsline {subsection}{\numberline {12.3.5}Experimentierort}{104}{subsection.12.3.5}%
-\contentsline {subsection}{\numberline {12.3.6}Experimentator}{104}{subsection.12.3.6}%
-\contentsline {subsection}{\numberline {12.3.7}Sch\"{u}lerexperimente in Gruppenarbeit}{105}{subsection.12.3.7}%
-\contentsline {section}{\numberline {12.4}Allgemeine Hinweise}{106}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Freihandexperimente}{107}{section.12.5}%
-\contentsline {subsection}{\numberline {12.5.1}Andere Gesichtspunkte}{108}{subsection.12.5.1}%
-\contentsline {subsection}{\numberline {12.5.2}Sind das Freihandexperimente?}{109}{subsection.12.5.2}%
-\contentsline {subsection}{\numberline {12.5.3}Logistik}{110}{subsection.12.5.3}%
-\contentsline {subsection}{\numberline {12.5.4}Nachteile}{110}{subsection.12.5.4}%
-\contentsline {chapter}{\numberline {13}Medien im Unterricht}{111}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Begriffsbildung}{111}{section.13.1}%
-\contentsline {subsection}{\numberline {13.1.1}Ziele beim Einsatz von Medien}{111}{subsection.13.1.1}%
-\contentsline {subsection}{\numberline {13.1.2}\"{U}berblick \"{u}ber audiovisuelle (AV-) Medien}{111}{subsection.13.1.2}%
-\contentsline {subsection}{\numberline {13.1.3}Die Wandtafel}{112}{subsection.13.1.3}%
-\contentsline {subsection}{\numberline {13.1.4}Der Tageslichtprojektor (TLP OHP)}{113}{subsection.13.1.4}%
-\contentsline {section}{\numberline {13.2}Schriftliche Medien --- f\"{u}r die Hand der Sch\"{u}ler}{115}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}Das Schulbuch}{115}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}Arbeitsbl\"{a}tter und -hefte}{115}{subsection.13.2.2}%
-\contentsline {subsection}{\numberline {13.2.3}Das Sch\"{u}lerheft}{116}{subsection.13.2.3}%
-\contentsline {section}{\numberline {13.3}Rechner\-einsatz --- speziell im Physikunterricht}{116}{section.13.3}%
-\contentsline {subsection}{\numberline {13.3.1}Der Rechner als AV-Medium}{116}{subsection.13.3.1}%
-\contentsline {subsection}{\numberline {13.3.2}Der Rechner als TOPIC}{116}{subsection.13.3.2}%
-\contentsline {subsection}{\numberline {13.3.3}Der Rechner als ,,Lernender'' (TUTEE)}{117}{subsection.13.3.3}%
-\contentsline {subsection}{\numberline {13.3.4}Der Rechner als Werkzeug/Hilfsmittel (TOOL)}{118}{subsection.13.3.4}%
-\contentsline {subsection}{\numberline {13.3.5}Der Rechner als Lehrender (TUTOR)}{118}{subsection.13.3.5}%
-\contentsline {subsection}{\numberline {13.3.6}Der Rechner als Hilfsmittel im Lehrer-Beruf}{119}{subsection.13.3.6}%
-\contentsline {subsection}{\numberline {13.3.7}Einsatz in der Schulverwaltung}{119}{subsection.13.3.7}%
-\contentsline {subsection}{\numberline {13.3.8}Messwert-Erfassung bei physikalischen Experimenten}{119}{subsection.13.3.8}%
-\contentsline {section}{\numberline {13.4}K\"{u}nstliche Intelligenz \`{a} la ChatGPT --- speziell im Physikunterricht}{121}{section.13.4}%
-\contentsline {chapter}{\numberline {14}Schulprofile}{123}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Das Profil des Gymnasiums}{123}{section.14.1}%
-\contentsline {section}{\numberline {14.2}Das Profil der Realschule}{124}{section.14.2}%
-\contentsline {section}{\numberline {14.3}Das Profil der Mittelschule}{125}{section.14.3}%
-\contentsline {chapter}{\numberline {15}Literatur zur Physik und Didaktik}{129}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Empfohlene Literatur zur Vorlesung {\glqq }Grundlagen der Fachdidaktik{\grqq } der UBT}{129}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Zeitschriften}{129}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Fachdidaktik Physik}{130}{section.15.3}%
-\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{130}{section.15.4}%
-\contentsline {section}{\numberline {15.5}Experimente --- Unterhaltsame Physik}{131}{section.15.5}%
-\contentsline {chapter}{\numberline {A}Verblisten für Operationalisierte Lernziele}{135}{appendix.A}%
+\contentsline {subsection}{\numberline {8.2.2}Gütekriterien für Elementarisierungen}{44}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Typen der Elementarisierung}{45}{subsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.2.4}Verwandte didaktische Begriffsbildungen}{49}{subsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.2.5}Elementarisierung erkennen}{51}{subsection.8.2.5}%
+\contentsline {subsection}{\numberline {8.2.6}Didaktische Rekonstruktion nach Kattmann}{51}{subsection.8.2.6}%
+\contentsline {section}{\numberline {8.3}Analogien und Modelle im Physikunterricht}{52}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Analogien}{52}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Modelle}{54}{subsection.8.3.2}%
+\contentsline {chapter}{\numberline {9}Strukturierung des Unterrichts}{59}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Unterrichtsprinzipien}{59}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Die Planungsebenen im Unterrichtsentwurf}{63}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Artikulationsschemata}{64}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Herbart: Die Formalstufen}{65}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Heinrich Roth (1963): Die Lernstufen}{66}{subsection.9.3.2}%
+\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{67}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.4}H.F.\ Bauer: Experimentalunterricht}{67}{subsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.3.5}Kerschensteiner (1914)}{68}{subsection.9.3.5}%
+\contentsline {subsection}{\numberline {9.3.6}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{68}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.7}Probleml\"{o}sendes Verfahren - Das Normalverfahren nach Mothes}{68}{subsection.9.3.7}%
+\contentsline {subsection}{\numberline {9.3.8}Die Phase der Motivation}{69}{subsection.9.3.8}%
+\contentsline {subsection}{\numberline {9.3.9}Einstiege in eine Unterrichtseinheit}{70}{subsection.9.3.9}%
+\contentsline {subsection}{\numberline {9.3.10}Das Aufstellen einer Vermutung bzw. Hypothese}{72}{subsection.9.3.10}%
+\contentsline {section}{\numberline {9.4}Unterrichtsverfahren}{72}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Das genetische Unterrichtsverfahren}{73}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Forschender Unterricht}{75}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}Georg Kerschensteiner}{75}{subsection.9.6.1}%
+\contentsline {subsection}{\numberline {9.6.2}Kerngedanken seines p\"{a}dagogischen Programms}{75}{subsection.9.6.2}%
+\contentsline {subsection}{\numberline {9.6.3}Die Idee des forschenden Unterrichts}{76}{subsection.9.6.3}%
+\contentsline {section}{\numberline {9.7}Nacherfindender Unterricht}{76}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Historisierender Unterricht}{76}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Induktiv-deduktives Verfahren}{77}{section.9.9}%
+\contentsline {subsection}{\numberline {9.9.1}Das induktive Verfahren}{77}{subsection.9.9.1}%
+\contentsline {subsection}{\numberline {9.9.2}Das deduktive Verfahren}{78}{subsection.9.9.2}%
+\contentsline {section}{\numberline {9.10}Sinnvoll \"{u}bernehmender Unterricht}{79}{section.9.10}%
+\contentsline {chapter}{\numberline {10}Methodische Gestaltung des Unterrichts}{81}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Handlungs- oder Aktionsformen}{81}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Vortrag}{81}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Lehrgespr\"{a}ch}{82}{subsection.10.1.2}%
+\contentsline {section}{\numberline {10.2}Sozialformen}{82}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Arbeit im Klassenverband}{83}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Arbeit in Kleingruppen}{83}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}Partnerarbeit}{84}{subsection.10.2.3}%
+\contentsline {subsection}{\numberline {10.2.4}Einzelarbeit}{84}{subsection.10.2.4}%
+\contentsline {section}{\numberline {10.3}Organisationsformen}{84}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Klassen- und Fachlehrerprinzip}{85}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}Zeitstruktur des Unterrichts}{85}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}Au{\ss }erschulische Lernorte}{86}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}Projekt --- projektorientierter Unterricht}{86}{subsection.10.3.4}%
+\contentsline {section}{\numberline {10.4}Lernen an Stationen}{90}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Fach\"{u}bergreifender Unterricht}{93}{section.10.5}%
+\contentsline {subsection}{\numberline {10.5.1}Begriffe --- Alternativen}{93}{subsection.10.5.1}%
+\contentsline {subsection}{\numberline {10.5.2}Wissenschaftstheoretische Aspekte}{93}{subsection.10.5.2}%
+\contentsline {subsection}{\numberline {10.5.3}Unterrichtsprinzipien}{93}{subsection.10.5.3}%
+\contentsline {subsection}{\numberline {10.5.4}Lerntheoretische Aspekte}{94}{subsection.10.5.4}%
+\contentsline {subsection}{\numberline {10.5.5}Organisatorische Aspekte}{94}{subsection.10.5.5}%
+\contentsline {subsection}{\numberline {10.5.6}Grundhaltung der Physik und Physikdidaktik}{94}{subsection.10.5.6}%
+\contentsline {subsection}{\numberline {10.5.7}M\"{o}gliche Leitmotive}{95}{subsection.10.5.7}%
+\contentsline {subsection}{\numberline {10.5.8}M\"{o}gliche Themenbereiche}{95}{subsection.10.5.8}%
+\contentsline {section}{\numberline {10.6}Eigenverantwortliches Arbeiten}{96}{section.10.6}%
+\contentsline {subsection}{\numberline {10.6.1}Arbeitsdefinition}{96}{subsection.10.6.1}%
+\contentsline {subsection}{\numberline {10.6.2}Methodische Umsetzung von EVA}{96}{subsection.10.6.2}%
+\contentsline {subsection}{\numberline {10.6.3}Psychologische Begr\"undung}{96}{subsection.10.6.3}%
+\contentsline {subsection}{\numberline {10.6.4}Verwandte Konzepte}{97}{subsection.10.6.4}%
+\contentsline {subsection}{\numberline {10.6.5}Umsetzung im LehrplanPlus}{97}{subsection.10.6.5}%
+\contentsline {chapter}{\numberline {11}Der schriftliche Unterrichtsentwurf}{99}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Experimentieren im Physikunterricht}{103}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Das Experiment als physikalisch- erkenntnistheoretische Methode}{103}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Kennzeichen von Experimenten}{104}{subsection.12.1.1}%
+\contentsline {section}{\numberline {12.2}Das Experiment als unterrichtlich-lerntheoretische Methode}{104}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Klassifikation von Unterrichtsexperimenten}{105}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Erkenntnistheoretische Funktion}{105}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Zeitliche Einordnung in einer Unterrichtseinheit}{105}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}Intensit\"{a}t und Art der Auswertung}{105}{subsection.12.3.3}%
+\contentsline {subsection}{\numberline {12.3.4}Art der Repr\"{a}sentation}{106}{subsection.12.3.4}%
+\contentsline {subsection}{\numberline {12.3.5}Experimentierort}{106}{subsection.12.3.5}%
+\contentsline {subsection}{\numberline {12.3.6}Experimentator}{106}{subsection.12.3.6}%
+\contentsline {subsection}{\numberline {12.3.7}Sch\"{u}lerexperimente in Gruppenarbeit}{107}{subsection.12.3.7}%
+\contentsline {section}{\numberline {12.4}Allgemeine Hinweise}{108}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Freihandexperimente}{109}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Andere Gesichtspunkte}{110}{subsection.12.5.1}%
+\contentsline {subsection}{\numberline {12.5.2}Sind das Freihandexperimente?}{111}{subsection.12.5.2}%
+\contentsline {subsection}{\numberline {12.5.3}Logistik}{112}{subsection.12.5.3}%
+\contentsline {subsection}{\numberline {12.5.4}Nachteile}{112}{subsection.12.5.4}%
+\contentsline {chapter}{\numberline {13}Medien im Unterricht}{113}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Begriffsbildung}{113}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Ziele beim Einsatz von Medien}{113}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}\"{U}berblick \"{u}ber audiovisuelle (AV-) Medien}{113}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}Die Wandtafel}{114}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.4}Der Tageslichtprojektor (TLP OHP)}{115}{subsection.13.1.4}%
+\contentsline {section}{\numberline {13.2}Schriftliche Medien --- f\"{u}r die Hand der Sch\"{u}ler}{117}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Das Schulbuch}{117}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Arbeitsbl\"{a}tter und -hefte}{117}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Das Sch\"{u}lerheft}{118}{subsection.13.2.3}%
+\contentsline {section}{\numberline {13.3}Rechner\-einsatz --- speziell im Physikunterricht}{118}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Der Rechner als AV-Medium}{118}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Der Rechner als TOPIC}{118}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}Der Rechner als ,,Lernender'' (TUTEE)}{119}{subsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.3.4}Der Rechner als Werkzeug/Hilfsmittel (TOOL)}{120}{subsection.13.3.4}%
+\contentsline {subsection}{\numberline {13.3.5}Der Rechner als Lehrender (TUTOR)}{120}{subsection.13.3.5}%
+\contentsline {subsection}{\numberline {13.3.6}Der Rechner als Hilfsmittel im Lehrer-Beruf}{121}{subsection.13.3.6}%
+\contentsline {subsection}{\numberline {13.3.7}Einsatz in der Schulverwaltung}{121}{subsection.13.3.7}%
+\contentsline {subsection}{\numberline {13.3.8}Messwert-Erfassung bei physikalischen Experimenten}{121}{subsection.13.3.8}%
+\contentsline {section}{\numberline {13.4}K\"{u}nstliche Intelligenz \`{a} la ChatGPT --- speziell im Physikunterricht}{123}{section.13.4}%
+\contentsline {chapter}{\numberline {14}Schulprofile}{125}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Das Profil des Gymnasiums}{125}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Das Profil der Realschule}{126}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Das Profil der Mittelschule}{127}{section.14.3}%
+\contentsline {chapter}{\numberline {15}Literatur zur Physik und Didaktik}{131}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Empfohlene Literatur zur Vorlesung {\glqq }Grundlagen der Fachdidaktik{\grqq } der UBT}{131}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Zeitschriften}{131}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Fachdidaktik Physik}{132}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{132}{section.15.4}%
+\contentsline {section}{\numberline {15.5}Experimente --- Unterhaltsame Physik}{133}{section.15.5}%
+\contentsline {chapter}{\numberline {A}Verblisten für Operationalisierte Lernziele}{137}{appendix.A}%

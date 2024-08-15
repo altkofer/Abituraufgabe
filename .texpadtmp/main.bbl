@@ -484,36 +484,49 @@
       \field{title}{Didaktische Modelle}
       \field{year}{2021}
     \endentry
-    \entry{Joerger}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=832aa66f819a4db26f98fc4562f7e1b9}{%
-           family={Joerger},
-           familyi={J\bibinitperiod},
-           given={Konrad},
-           giveni={K\bibinitperiod},
+    \entry{Kattmann}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=53c784d792ce590c14770dcadb90b3cf}{%
+           family={Kattmann},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eff84ece5ddfc36f32ff02615a771902}{%
+           family={Gropengie{ß}er},
+           familyi={G\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1a50a0722654c4e65ae488257a544dc}{%
+           family={Komorek},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Freiburg}%
-      }
-      \list{publisher}{1}{%
-        {Herder Verlag}%
-      }
-      \strng{namehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{fullhash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{bibnamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authorbibnamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authornamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authorfullhash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \strng{namehash}{3bcbffc1f7fee939010efd4c76a4a0d4}
+      \strng{fullhash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{bibnamehash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{authorbibnamehash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{authornamehash}{3bcbffc1f7fee939010efd4c76a4a0d4}
+      \strng{authorfullhash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Einführung in die Lernpsychologie}
-      \field{year}{1976}
+      \field{title}{Das {{Modell}} Der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} Für Naturwissenschaftsdidaktische {{Forschung}} Und {{Entwicklung}}.}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
+      \endverb
     \endentry
     \entry{KircherSchneider}{book}{}
       \name{editor}{2}{}{%
@@ -1856,36 +1869,49 @@
       \field{title}{Didaktische Modelle}
       \field{year}{2021}
     \endentry
-    \entry{Joerger}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=832aa66f819a4db26f98fc4562f7e1b9}{%
-           family={Joerger},
-           familyi={J\bibinitperiod},
-           given={Konrad},
-           giveni={K\bibinitperiod},
+    \entry{Kattmann}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=53c784d792ce590c14770dcadb90b3cf}{%
+           family={Kattmann},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eff84ece5ddfc36f32ff02615a771902}{%
+           family={Gropengie{ß}er},
+           familyi={G\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1a50a0722654c4e65ae488257a544dc}{%
+           family={Komorek},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Freiburg}%
-      }
-      \list{publisher}{1}{%
-        {Herder Verlag}%
-      }
-      \strng{namehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{fullhash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{bibnamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authorbibnamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authornamehash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \strng{authorfullhash}{832aa66f819a4db26f98fc4562f7e1b9}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
+      \strng{namehash}{3bcbffc1f7fee939010efd4c76a4a0d4}
+      \strng{fullhash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{bibnamehash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{authorbibnamehash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \strng{authornamehash}{3bcbffc1f7fee939010efd4c76a4a0d4}
+      \strng{authorfullhash}{d4f8ee0e56eee3e7135a51952fdf07e2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeldatesource}{nodate}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Einführung in die Lernpsychologie}
-      \field{year}{1976}
+      \field{title}{Das {{Modell}} Der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} Für Naturwissenschaftsdidaktische {{Forschung}} Und {{Entwicklung}}.}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
+      \endverb
     \endentry
     \entry{KircherGirwidzHaussler3}{book}{}
       \name{author}{3}{}{%

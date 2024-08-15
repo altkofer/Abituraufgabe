@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  14 AUG 2024 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  15 AUG 2024 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1922,7 +1922,7 @@ Package hyperref Info: Link coloring OFF on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Bilder/Logo_physikdidaktik_long.png, id=585, 2935.6074pt x 692.3466pt>
+<Bilder/Logo_physikdidaktik_long.png, id=589, 2935.6074pt x 692.3466pt>
 File: Bilder/Logo_physikdidaktik_long.png Graphic file (type png)
 <use Bilder/Logo_physikdidaktik_long.png>
 Package pdftex.def Info: Bilder/Logo_physikdidaktik_long.png  used on input line 19.
@@ -2037,7 +2037,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraSans-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<Bilder/Layout.png, id=602, 616.266pt x 341.202pt>
+<Bilder/Layout.png, id=607, 616.266pt x 341.202pt>
 File: Bilder/Layout.png Graphic file (type png)
 <use Bilder/Layout.png>
 Package pdftex.def Info: Bilder/Layout.png  used on input line 97.
@@ -2062,12 +2062,22 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
  [5
 
 {/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [6]
-Overfull \hbox (0.20802pt too wide) detected at line 109
+Overfull \hbox (0.20802pt too wide) detected at line 106
  []\T1/FiraSans-OsF/regular/n/10.95 106
  []
 
 
-Overfull \hbox (0.32846pt too wide) detected at line 111
+Overfull \hbox (0.20802pt too wide) detected at line 107
+ []\T1/FiraSans-OsF/regular/n/10.95 106
+ []
+
+
+Overfull \hbox (0.20802pt too wide) detected at line 108
+ []\T1/FiraSans-OsF/regular/n/10.95 106
+ []
+
+
+Overfull \hbox (0.32846pt too wide) detected at line 110
  []\T1/FiraSans-OsF/regular/n/10.95 108
  []
 
@@ -2261,114 +2271,108 @@ Overfull \hbox (25.52614pt too wide) in paragraph at lines 3--3
 []\T1/FiraSans-OsF/bold/n/14.4 (-20) Didaktische Ana-ly-se nach Klaf-ki / Kritisch-konstruktive
  []
 
-[41] [42]
+[41]
+<Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png, id=1035, 2569.6pt x 1977.3875pt>
+File: Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png Graphic file (type png)
+<use Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png>
+Package pdftex.def Info: Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png  used on input line 48.
+(pdftex.def)             Requested size: 142.26378pt x 109.4657pt.
 
-Package scrlayer-scrpage Warning: \headheight to low.
-(scrlayer-scrpage)                At least 27.2pt needed,
-(scrlayer-scrpage)                but only 13.97334pt found.
-(scrlayer-scrpage)                I'll enlarge \headheight, for further
-(scrlayer-scrpage)                processing, but you should do this yourself,
-(scrlayer-scrpage)                e.g., setting geometry's option
-(scrlayer-scrpage)                `head=27.2pt'.
-(scrlayer-scrpage)                I'll also decrease \topmargin on input line 142.
-
-
-Overfull \vbox (13.22665pt too high) has occurred while \output is active []
-
- [43]
-Overfull \hbox (36.06757pt too wide) in paragraph at lines 198--204
-[]\T1/FiraSans-OsF/regular/n/10.95 (-20) Formelmäÿige Er-fas-sung der di-rek-ten Pro-por-tio-na-li-tät []
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\T1/FiraSans-OsF/regular/n/10.95 (+20) elektromagnetische-[]induktion / grundwissen /
  []
 
-[44]
-Overfull \hbox (84.99164pt too wide) in paragraph at lines 245--246
-[][] 
- []
-
-
-Overfull \hbox (56.53888pt too wide) in paragraph at lines 252--253
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[42]
+<Bilder/elementarisierung.png, id=1052, 353.247pt x 229.731pt>
+File: Bilder/elementarisierung.png Graphic file (type png)
+<use Bilder/elementarisierung.png>
+Package pdftex.def Info: Bilder/elementarisierung.png  used on input line 64.
+(pdftex.def)             Requested size: 199.16928pt x 129.53183pt.
+<Bilder/ohm.png, id=1054, 367.263pt x 467.565pt>
+File: Bilder/ohm.png Graphic file (type png)
+<use Bilder/ohm.png>
+Package pdftex.def Info: Bilder/ohm.png  used on input line 77.
+(pdftex.def)             Requested size: 323.20677pt x 411.48701pt.
+ [43 <./Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png> <./Bilder/elementarisierung.png>] [44 <./Bilder/ohm.png>] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[45] [46]
-Overfull \hbox (2.44254pt too wide) in paragraph at lines 401--405
-[]\T1/FiraSans-OsF/regular/n/10.95 (-20) Die Ge-set-ze über das idea-le Gas von Gay-Lussac, Boyle-Marriotte
+[46] [47]
+Underfull \hbox (badness 1635) in paragraph at lines 290--294
+[]\T1/FiraSans-OsF/regular/n/10.95 (+20) Die Ge-set-ze über das idea-le Gas von Gay-Lussac,
  []
 
-[47]
-Overfull \hbox (5.19946pt too wide) in paragraph at lines 482--485
-[]\T1/FiraSans-OsF/regular/it/10.95 (-20) Antropomorphierung (Ver-mensch-li-chung) \T1/FiraSans-OsF/regular/n/10.95 (-20) Der Schü-ler setzt sich selbst
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48] [49]
+Underfull \hbox (badness 2913) in paragraph at lines 415--417
+[]\T1/FiraSans-OsF/regular/n/10.95 (+20) Nachempfinden der astro-no-mi-schen Län-gens-ka-len
  []
 
-[48]
-Overfull \hbox (33.49124pt too wide) in paragraph at lines 546--548
-[]\T1/FiraSans-OsF/regular/n/10.95 (-20) Abhängigkeiten der Pen-del-fre-quenz (vgl. []Joer-ger, []1976[], S. 56, Piaget/Inhelder-
- []
 
-[49] [50]
+Underfull \vbox (badness 4205) has occurred while \output is active []
+
+ [50] [51] [52]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 635.
+(Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 541.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 635.
+(Font)              scaled to size 10.0pt on input line 541.
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--649
+Underfull \hbox (badness 10000) in paragraph at lines 555--555
 []|\T1/FiraSans-OsF/regular/n/10 (+20) Hysterese bei ma-gne-ti-schen
  []
 
 
-LaTeX Warning: Citation 'Stoecker' on page 51 undefined on input line 657.
+LaTeX Warning: Citation 'Stoecker' on page 53 undefined on input line 563.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 665--666
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
 []|\T1/FiraSans-OsF/regular/n/10 (+20) Turbidimetrie (Trü-bungs-mes-
  []
 
-[51]
-Overfull \hbox (10.8962pt too wide) in paragraph at lines 676--700
+
+Overfull \hbox (10.8962pt too wide) in paragraph at lines 582--606
  [] 
  []
 
-[52]
-Overfull \hbox (28.05074pt too wide) in paragraph at lines 761--762
+[53] [54]
+Overfull \hbox (28.05074pt too wide) in paragraph at lines 667--668
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Tellurium (Me-cha-ni-sches Mo-dell des Erde-Mond-Sonnensystems), 
  []
 
-[53]
-Overfull \hbox (12.1897pt too wide) in paragraph at lines 779--781
+
+Overfull \hbox (12.1897pt too wide) in paragraph at lines 685--687
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Kosmologische Mo-del-le (Fried-mann Uni-ver-se, stea-dy state,...). 
  []
 
-[54]
+[55]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 849.
+(Font)              Font shape `T1/FiraSans-OsF/regular/sc' tried instead on input line 755.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/sc' will be
-(Font)              scaled to size 10.95pt on input line 849.
-) [55{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fira/fir_2mfh3o.enc}] [56]
+(Font)              scaled to size 10.95pt on input line 755.
+ [56{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fira/fir_2mfh3o.enc}]) [57]
 \openout2 = `Kapitel/10_strukturierung.aux'.
 
- (./Kapitel/10_strukturierung.tex
+ (./Kapitel/10_strukturierung.tex [58
+
+
+
+
+]
 Kapitel 9.
-[57
-
-
-
-
-] [58] [59]
+[59] [60] [61]
 Overfull \hbox (5.79572pt too wide) in paragraph at lines 202--204
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Mengenlehre als Grund-la-ge der Ma-the-ma-tik, des-halb auch Grund-
  []
 
-[60] [61]
+[62] [63]
 Overfull \hbox (3.4681pt too wide) in paragraph at lines 282--286
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Unterrichtsverfahren (Me-tho-den-kon-zep-tio-nen): Die-se ge-ben die Grun-
  []
 
-<Bilder/Artikulationsschema.png, id=1174, 824.973pt x 334.194pt>
+<Bilder/Artikulationsschema.png, id=1201, 824.973pt x 334.194pt>
 File: Bilder/Artikulationsschema.png Graphic file (type png)
 <use Bilder/Artikulationsschema.png>
 Package pdftex.def Info: Bilder/Artikulationsschema.png  used on input line 328.
@@ -2378,7 +2382,7 @@ Overfull \hbox (56.82602pt too wide) in paragraph at lines 328--329
  [][] 
  []
 
-[62] [63 <./Bilder/Artikulationsschema.png>]
+[64] [65 <./Bilder/Artikulationsschema.png>]
 Overfull \hbox (8.88765pt too wide) in paragraph at lines 443--446
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Induktive Er-ar-bei-tung ei-nes Ge-set-zes im Ex-pe-ri-ment (Hoo-ke'sches
  []
@@ -2388,17 +2392,17 @@ Overfull \hbox (6.12822pt too wide) in paragraph at lines 469--472
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Anwendung in Na-tur, All-tag und Tech-nik (Ver-duns-tung $\OMS/cmsy/m/n/10.95 !$ \T1/FiraSans-OsF/regular/n/10.95 (-20) Schweiÿ-
  []
 
-[64]
+[66]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\textcite' on input line 500.
 
-[65]
+[67]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\textcite' on input line 550.
 
-[66]
+[68]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -2408,7 +2412,7 @@ Overfull \hbox (5.99686pt too wide) in paragraph at lines 641--643
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Wir be-we-gen uns mit $[] []$ um die Erdach-se und mit $[] []$
  []
 
-[67] [68] [69]
+[69] [70] [71]
 Underfull \hbox (badness 1360) in paragraph at lines 862--863
 []|\T1/FiraSans-OsF/regular/n/10.95 (+20) Die Schü-ler be-tä-ti-gen sich selbst als
  []
@@ -2418,22 +2422,22 @@ Overfull \hbox (67.87907pt too wide) in paragraph at lines 852--906
  [] 
  []
 
-[70]
+[72]
 Overfull \hbox (68.0932pt too wide) in paragraph at lines 917--937
 [][] 
  []
 
-[71]
+[73]
 Overfull \hbox (65.06006pt too wide) in paragraph at lines 1014--1042
 [] 
  []
 
-[72]
+[74]
 Overfull \hbox (1.28958pt too wide) in paragraph at lines 1061--1063
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Soziale Bil-dung: Aus-bil-dungs-ziel in der (Berufs-)Schule ist der ,,Staats-
  []
 
-[73] [74] [75]
+[75] [76] [77]
 Underfull \hbox (badness 10000) in paragraph at lines 1189--1192
 
  []
@@ -2443,17 +2447,17 @@ Overfull \hbox (0.3493pt too wide) in paragraph at lines 1205--1209
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) ,,Vom All-ge-mei-nen zum Spe-zi-el-len.'' Aus-ge-hend von all-ge-mei-nen fest-ste-hen-
  []
 
-[76]) [77]
+[78]) [79]
 \openout2 = `Kapitel/11_methoden.aux'.
 
- (./Kapitel/11_methoden.tex [78
+ (./Kapitel/11_methoden.tex [80
 
 
 
 
 ]
 Kapitel 10.
-[79] [80] [81] [82]
+[81] [82] [83] [84]
 Overfull \hbox (0.44719pt too wide) in paragraph at lines 222--224
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Die Aus-wir-kun-gen ei-ner ,,schwie-ri-gen Leh-rer-per-sön-lich-keit'' sind
  []
@@ -2463,12 +2467,12 @@ Overfull \hbox (6.77818pt too wide) in paragraph at lines 225--231
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Mischformen: Zwei Leh-rer (Sprachlich-gesellschaftswissenschaftlicher
  []
 
-[83]
+[85]
 Overfull \hbox (10.56657pt too wide) in paragraph at lines 262--266
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Sie wird ver-wirk-licht durch Wahl-an-ge-bo-te (Ma-te-ri-al-ti-sche, Lernthe-
  []
 
-[84] [85] [86]
+[86] [87] [88]
 Overfull \hbox (0.26964pt too wide) in paragraph at lines 506--509
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Reibung, Brem-sen (Felgen-, Trom-mel-brem-se), Er-wär-mung beim Brem-
  []
@@ -2478,18 +2482,18 @@ Overfull \hbox (4.66028pt too wide) in paragraph at lines 512--515
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Kraftwandlung: He-bel-ge-setz, Über-set-zung bei: Gang-schal-tung(stypen),
  []
 
-[87] [88] [89] [90] [91] [92] [93] [94]) [95]
+[89] [90] [91] [92] [93] [94] [95] [96]) [97]
 \openout2 = `Kapitel/12_unterrichtsentwurf.aux'.
 
- (./Kapitel/12_unterrichtsentwurf.tex [96
+ (./Kapitel/12_unterrichtsentwurf.tex [98
 
 
 
 
 ]
 Kapitel 11.
-[97]
-<Bilder/Unterrichtsskizze_02.png, id=1437, 2250.4075pt x 1192.455pt>
+[99]
+<Bilder/Unterrichtsskizze_02.png, id=1465, 2250.4075pt x 1192.455pt>
 File: Bilder/Unterrichtsskizze_02.png Graphic file (type png)
 <use Bilder/Unterrichtsskizze_02.png>
 Package pdftex.def Info: Bilder/Unterrichtsskizze_02.png  used on input line 59.
@@ -2499,22 +2503,22 @@ Overfull \hbox (94.41406pt too wide) in paragraph at lines 59--60
 [][] 
  []
 
-) [98] [99 <./Bilder/Unterrichtsskizze_02.png>]
+) [100] [101 <./Bilder/Unterrichtsskizze_02.png>]
 \openout2 = `Kapitel/13_experimentieren.aux'.
 
- (./Kapitel/13_experimentieren.tex [100
+ (./Kapitel/13_experimentieren.tex [102
 
 
 
 
 ]
 Kapitel 12.
-[101]
+[103]
 Overfull \hbox (6.92084pt too wide) in paragraph at lines 81--81
 []\T1/FiraSans-OsF/bold/n/14.4 (-20) Das Ex-pe-ri-ment als unterrichtlich-lerntheoretische
  []
 
-[102] [103] [104]
+[104] [105] [106]
 Overfull \hbox (18.73758pt too wide) in paragraph at lines 278--282
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Frei (Ex-pe-ri-men-tal-frei-ar-beit): Ei-ne sehr reiz-vol-le (Wa-gen-schein'sche)
  []
@@ -2524,42 +2528,42 @@ Overfull \hbox (3.5016pt too wide) in paragraph at lines 320--324
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Vorbereitende Tä-tig-kei-ten (Ab-zwi-cken von Dräh-ten, Kno-ten von Schnü-
  []
 
-[105] [106]
+[107] [108]
 Overfull \hbox (4.0763pt too wide) in paragraph at lines 427--429
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Mittelschule: Schon im-mer stark der hand-lungs-ori-en-tier-te, lebensnah-
  []
 
-[107] [108] [109]) [110]
+[109] [110] [111]) [112]
 \openout2 = `Kapitel/14_medien.aux'.
 
  (./Kapitel/14_medien.tex
 Kapitel 13.
-[111
+[113
 
 
 
 
-] [112] [113] [114]
+] [114] [115] [116]
 Overfull \hbox (1.41718pt too wide) in paragraph at lines 306--309
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Farbige Ge-stal-tung: Tex-te mar-kie-ren, Skiz-zen fär-ben, Zeichnungs-
  []
 
-[115]
+[117]
 Overfull \hbox (8.87866pt too wide) in paragraph at lines 326--331
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Eine beim Leh-rer her-vor-ge-ru-fe-ne ,,Stoffabarbeitungs-Philosophie''
  []
 
-[116] [117]
+[118] [119]
 Overfull \hbox (9.28957pt too wide) in paragraph at lines 446--448
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Erstellung von Pro-duk-ten (Do-ku-men-te, Tex-te, Gra-phi-ken, Multi-Medien). 
  []
 
-[118] [119]
+[120] [121]
 Overfull \hbox (17.90416pt too wide) in paragraph at lines 589--592
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Paralleldynamik: Das Ex-pe-ri-ment wird par-al-lel so-wohl re-al als auch modellhaft-
  []
 
-[120]
+[122]
 Overfull \hbox (6.71556pt too wide) in paragraph at lines 630--632
 []\T1/FiraSans-OsF/bold/n/10.95 (-20) Ideengeber bei Haus-auf-ga-ben und Pro-jek-ten: \T1/FiraSans-OsF/regular/n/10.95 (-20) Schü-ler kön-nen ChatGPT
  []
@@ -2567,7 +2571,7 @@ Overfull \hbox (6.71556pt too wide) in paragraph at lines 630--632
 
 Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                At least 27.57335pt needed,
-(scrlayer-scrpage)                but only 27.2pt found.
+(scrlayer-scrpage)                but only 13.97334pt found.
 (scrlayer-scrpage)                I'll enlarge \headheight, for further
 (scrlayer-scrpage)                processing, but you should do this yourself,
 (scrlayer-scrpage)                e.g., setting geometry's option
@@ -2575,19 +2579,19 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                I'll also decrease \topmargin on input line 633.
 
 
-Overfull \vbox (0.37335pt too high) has occurred while \output is active []
+Overfull \vbox (13.6pt too high) has occurred while \output is active []
 
- [121]) [122]
+ [123]) [124]
 \openout2 = `Kapitel/15_schulprofile.aux'.
 
  (./Kapitel/15_schulprofile.tex
 Kapitel 14.
-[123
+[125
 
 
 
 
-] [124] [125]
+] [126] [127]
 Overfull \hbox (2.58257pt too wide) in paragraph at lines 116--119
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Arbeitslehre $\OT1/cmr/m/n/10.95 (-20) +$ \T1/FiraSans-OsF/regular/n/10.95 (-20) Gewerblich-technischer Be-reich $\OT1/cmr/m/n/10.95 (-20) +$ \T1/FiraSans-OsF/regular/n/10.95 (-20) Kaufmännisch-
  []
@@ -2597,17 +2601,17 @@ Overfull \hbox (3.68022pt too wide) in paragraph at lines 167--170
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Religion, Ethik: Am-bi-va-lenz der Phy-sik: Waf-fen, (Kern-)Kraftwerke,
  []
 
-[126]) [127]
+[128]) [129]
 \openout2 = `Kapitel/16_literatur.aux'.
 
- (./Kapitel/16_literatur.tex [128
+ (./Kapitel/16_literatur.tex [130
 
 
 
 
 ]
 Kapitel 15.
-[129]
+[131]
 Overfull \hbox (45.41612pt too wide) in paragraph at lines 70--71
 \T1/FiraSans-OsF/regular/n/10.95 (-20) uni-[]bayreuth . de : 443 / TouchPoint / perma . do ? q = 35 % 3D % 22(OCoLC ) 1220881218 %
  []
@@ -2618,9 +2622,9 @@ Overfull \hbox (2.81935pt too wide) in paragraph at lines 76--77
  []
 
 
-LaTeX Warning: Citation 'Koeck' on page 130 undefined on input line 94.
+LaTeX Warning: Citation 'Koeck' on page 132 undefined on input line 94.
 
-[130]) [131]
+[132]) [133]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2667,12 +2671,12 @@ Package scrlayer-scrpage Warning: \headheight to low.
 
 Overfull \vbox (1.59999pt too high) has occurred while \output is active []
 
- [132
+ [134
 
 
 
 
-] [133] [134]
+] [135] [136]
 \openout2 = `Kapitel/appendix.aux'.
 
  (./Kapitel/appendix.tex
@@ -2680,7 +2684,7 @@ Anhang A.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1658, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1686, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf  used on input line 3.
@@ -2698,7 +2702,7 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1661, page=1, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1689, page=1, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
@@ -2707,7 +2711,7 @@ File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[135
+[137
 
 
 ]
@@ -2723,12 +2727,12 @@ File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [136
+ [138
 
  <./Bilder/Verblisten_Kompetenz.pdf>]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1701, page=2, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1729, page=2, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 2>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 3.
@@ -2741,7 +2745,7 @@ File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 2>
 Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 3.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[137
+[139
 
  <./Bilder/Verblisten_Kompetenz.pdf>]) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.aux (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/1_denk.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/2_begr.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/3_erkenntnis.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/4_did_modelle.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/5_guter_UR.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/6_bildungsstandards.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/7_lernziele.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/8_schuelervorst.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/9_aufber.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/10_strukturierung.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/11_methoden.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/12_unterrichtsentwurf.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/13_experimentieren.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/14_medien.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/15_schulprofile.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/16_literatur.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/appendix.aux))
  ***********
@@ -2753,24 +2757,24 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8A24364ED707CFE591897C8300F01FF6;30360.
+(rerunfilecheck)             Checksum: 299C1112A7AAACB4AE542C76CF8DA87D;30677.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 60369 strings out of 474116
- 1294760 string characters out of 5743682
- 2418353 words of memory out of 5000000
- 80613 multiletter control sequences out of 15000+600000
- 927258 words of font info for 479 fonts, out of 8000000 for 9000
+ 60454 strings out of 474116
+ 1297008 string characters out of 5743682
+ 2418488 words of memory out of 5000000
+ 80681 multiletter control sequences out of 15000+600000
+ 928194 words of font info for 484 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  123i,20n,131p,1152b,7353s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-BoldItalic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.pdf (137 pages, 2945725 bytes).
+Output written on /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.pdf (139 pages, 3770759 bytes).
 PDF statistics:
- 1920 PDF objects out of 2073 (max. 8388607)
- 1702 compressed objects within 18 object streams
- 558 named destinations out of 1000 (max. 500000)
- 112314 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1951 PDF objects out of 2073 (max. 8388607)
+ 1725 compressed objects within 18 object streams
+ 567 named destinations out of 1000 (max. 500000)
+ 112337 words of extra memory for PDF output out of 128383 (max. 10000000)
 
