@@ -1,5 +1,4 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}\relax 
 \contentsline {chapter}{\numberline {1}Denkanstöße}{9}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Begr\"{u}ndung von Physik in der Schule}{11}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Die Erkenntnis von Natur -- durch die Physik}{13}{chapter.3}%
@@ -10,12 +9,12 @@
 \contentsline {section}{\numberline {5.1}Die internationale Schulleistungsstudie PISA}{19}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Basisdimensionen guten Unterrichts}{20}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Die IPN Interessenstudie Physik ({\glqq }Kieler{\grqq } Interessenstudie)}{20}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Die Hattie - Studie}{21}{section.5.4}%
+\contentsline {section}{\numberline {5.4}Die Hattie-Studie}{21}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Lernziele}{23}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Lernen ordnen: Zum Begriff des Lernziels}{24}{section.6.1}%
+\contentsline {section}{\numberline {6.1}Lernen ordnen: Zum Begriff des Lernziels}{23}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Funktionen von Lernzielen}{24}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Lernzielebenen}{25}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Lernzieltaxonomien und Operationalisierung}{26}{section.6.4}%
+\contentsline {section}{\numberline {6.3}Lernzielebenen}{24}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Lernzieltaxonomien und Operationalisierung}{25}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Zur Dimension des Wissens}{26}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Zur Dimension koginitiver Prozesse}{26}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Operationalisierung}{27}{subsection.6.4.3}%
@@ -26,7 +25,7 @@
 \contentsline {section}{\numberline {7.3}Tests zum Erfassen von Misskonzepten}{33}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Strategien zum Erreichen eines Konzeptwechsels}{34}{section.7.4}%
 \contentsline {section}{\numberline {7.5}Fazit}{35}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Beispiele}{35}{section.7.6}%
+\contentsline {section}{\numberline {7.6}Beispiele}{36}{section.7.6}%
 \contentsline {chapter}{\numberline {8}Aufbereiten von Unterrichtsinhalten}{41}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Didaktische Analyse nach Klafki / Kritisch-konstruktive Didaktik}{41}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Elementarisierung und didaktische Rekonstruktion}{42}{section.8.2}%
@@ -38,18 +37,18 @@
 \contentsline {subsection}{\numberline {8.2.6}Didaktische Rekonstruktion nach Kattmann}{51}{subsection.8.2.6}%
 \contentsline {section}{\numberline {8.3}Analogien und Modelle im Physikunterricht}{52}{section.8.3}%
 \contentsline {subsection}{\numberline {8.3.1}Analogien}{52}{subsection.8.3.1}%
-\contentsline {subsection}{\numberline {8.3.2}Modelle}{54}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.2}Modelle}{53}{subsection.8.3.2}%
 \contentsline {chapter}{\numberline {9}Strukturierung des Unterrichts}{59}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Unterrichtsprinzipien}{59}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Die Planungsebenen im Unterrichtsentwurf}{63}{section.9.2}%
 \contentsline {section}{\numberline {9.3}Artikulationsschemata}{64}{section.9.3}%
 \contentsline {subsection}{\numberline {9.3.1}Herbart: Die Formalstufen}{65}{subsection.9.3.1}%
 \contentsline {subsection}{\numberline {9.3.2}Heinrich Roth (1963): Die Lernstufen}{66}{subsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \textcite {DuitHausslerKircher}}{67}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{67}{subsection.9.3.3}%
 \contentsline {subsection}{\numberline {9.3.4}H.F.\ Bauer: Experimentalunterricht}{67}{subsection.9.3.4}%
 \contentsline {subsection}{\numberline {9.3.5}Kerschensteiner (1914)}{68}{subsection.9.3.5}%
-\contentsline {subsection}{\numberline {9.3.6}\textcite {Ploeger}: Forschender Physikunterricht}{68}{subsection.9.3.6}%
-\contentsline {subsection}{\numberline {9.3.7}Probleml\"{o}sendes Verfahren - Das Normalverfahren nach Mothes}{68}{subsection.9.3.7}%
+\contentsline {subsection}{\numberline {9.3.6}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{68}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.7}Probleml\"{o}sendes Verfahren -- Das Normalverfahren nach Mothes}{68}{subsection.9.3.7}%
 \contentsline {subsection}{\numberline {9.3.8}Die Phase der Motivation}{69}{subsection.9.3.8}%
 \contentsline {subsection}{\numberline {9.3.9}Einstiege in eine Unterrichtseinheit}{70}{subsection.9.3.9}%
 \contentsline {subsection}{\numberline {9.3.10}Das Aufstellen einer Vermutung bzw. Hypothese}{72}{subsection.9.3.10}%
@@ -142,6 +141,6 @@
 \contentsline {section}{\numberline {15.1}Empfohlene Literatur zur Vorlesung {\glqq }Grundlagen der Fachdidaktik{\grqq } der UBT}{131}{section.15.1}%
 \contentsline {section}{\numberline {15.2}Zeitschriften}{131}{section.15.2}%
 \contentsline {section}{\numberline {15.3}Fachdidaktik Physik}{132}{section.15.3}%
-\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{133}{section.15.4}%
+\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{132}{section.15.4}%
 \contentsline {section}{\numberline {15.5}Experimente --- Unterhaltsame Physik}{133}{section.15.5}%
 \contentsline {chapter}{\numberline {A}Verblisten für Operationalisierte Lernziele}{137}{appendix.A}%
