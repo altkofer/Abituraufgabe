@@ -31,9 +31,10 @@
 
 \usepackage{scrlayer-scrpage} %makes nice headers and footers
 \clearpairofpagestyles
-\chead{\headmark}
-\refoot*{\pagemark}
+\ohead{\headmark}
+\lefoot*{\pagemark}
 \rofoot*{\pagemark}
+\setlength{\headheight}{15pt} %to prevent warning abt headheight too small
 
 
 \usepackage{lipsum}

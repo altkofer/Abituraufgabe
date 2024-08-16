@@ -1,4 +1,5 @@
-\babel@toc {ngerman}{}\relax 
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
 \contentsline {chapter}{\numberline {1}Denkanstöße}{9}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Begr\"{u}ndung von Physik in der Schule}{11}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Die Erkenntnis von Natur -- durch die Physik}{13}{chapter.3}%
@@ -21,7 +22,7 @@
 \contentsline {section}{\numberline {6.5}Bildungsstandards und die KmK}{28}{section.6.5}%
 \contentsline {chapter}{\numberline {7}Sch{\"u}lervorstellungen und Konzeptwechsel}{31}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Konstruktivismus}{31}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Sch{\"u}lervorstellungen $\textrm {--}$ Begriff und Ursachen}{32}{section.7.2}%
+\contentsline {section}{\numberline {7.2}Sch{\"u}lervorstellungen -- Begriff und Ursachen}{32}{section.7.2}%
 \contentsline {section}{\numberline {7.3}Tests zum Erfassen von Misskonzepten}{33}{section.7.3}%
 \contentsline {section}{\numberline {7.4}Strategien zum Erreichen eines Konzeptwechsels}{34}{section.7.4}%
 \contentsline {section}{\numberline {7.5}Fazit}{35}{section.7.5}%
@@ -44,10 +45,10 @@
 \contentsline {section}{\numberline {9.3}Artikulationsschemata}{64}{section.9.3}%
 \contentsline {subsection}{\numberline {9.3.1}Herbart: Die Formalstufen}{65}{subsection.9.3.1}%
 \contentsline {subsection}{\numberline {9.3.2}Heinrich Roth (1963): Die Lernstufen}{66}{subsection.9.3.2}%
-\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{67}{subsection.9.3.3}%
+\contentsline {subsection}{\numberline {9.3.3}Grob-Phasen gem\"{a}{\ss } \textcite {DuitHausslerKircher}}{67}{subsection.9.3.3}%
 \contentsline {subsection}{\numberline {9.3.4}H.F.\ Bauer: Experimentalunterricht}{67}{subsection.9.3.4}%
 \contentsline {subsection}{\numberline {9.3.5}Kerschensteiner (1914)}{68}{subsection.9.3.5}%
-\contentsline {subsection}{\numberline {9.3.6}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{68}{subsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.3.6}\textcite {Ploeger}: Forschender Physikunterricht}{68}{subsection.9.3.6}%
 \contentsline {subsection}{\numberline {9.3.7}Probleml\"{o}sendes Verfahren - Das Normalverfahren nach Mothes}{68}{subsection.9.3.7}%
 \contentsline {subsection}{\numberline {9.3.8}Die Phase der Motivation}{69}{subsection.9.3.8}%
 \contentsline {subsection}{\numberline {9.3.9}Einstiege in eine Unterrichtseinheit}{70}{subsection.9.3.9}%
@@ -141,6 +142,6 @@
 \contentsline {section}{\numberline {15.1}Empfohlene Literatur zur Vorlesung {\glqq }Grundlagen der Fachdidaktik{\grqq } der UBT}{131}{section.15.1}%
 \contentsline {section}{\numberline {15.2}Zeitschriften}{131}{section.15.2}%
 \contentsline {section}{\numberline {15.3}Fachdidaktik Physik}{132}{section.15.3}%
-\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{132}{section.15.4}%
+\contentsline {section}{\numberline {15.4}Erziehungswissenschaften}{133}{section.15.4}%
 \contentsline {section}{\numberline {15.5}Experimente --- Unterhaltsame Physik}{133}{section.15.5}%
 \contentsline {chapter}{\numberline {A}Verblisten für Operationalisierte Lernziele}{137}{appendix.A}%
