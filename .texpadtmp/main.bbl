@@ -50,6 +50,41 @@
       \field{title}{Erstaunliche Experimente --- Spielerisch Wissen entdecken}
       \field{year}{1996}
     \endentry
+    \entry{Ausubel}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
+           family={Ausubel},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Grune \& Stratton}%
+      }
+      \strng{namehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{fullhash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{bibnamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authorbibnamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authornamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authorfullhash}{362233df2db00e192eb9dc19d7107d53}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{OCLC: 183907}
+      \field{isbn}{978-0-8089-0025-2}
+      \field{langid}{english}
+      \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
+      \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
+      \field{year}{1963}
+    \endentry
     \entry{Berge}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2944147d0a7830bce7bcb5e73a72f68b}{%
@@ -1612,6 +1647,41 @@
       \field{labeltitlesource}{title}
       \field{title}{Erstaunliche Experimente --- Spielerisch Wissen entdecken}
       \field{year}{1996}
+    \endentry
+    \entry{Ausubel}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
+           family={Ausubel},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Grune \& Stratton}%
+      }
+      \strng{namehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{fullhash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{bibnamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authorbibnamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authornamehash}{362233df2db00e192eb9dc19d7107d53}
+      \strng{authorfullhash}{362233df2db00e192eb9dc19d7107d53}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{annotation}{OCLC: 183907}
+      \field{isbn}{978-0-8089-0025-2}
+      \field{langid}{english}
+      \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
+      \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
+      \field{year}{1963}
     \endentry
     \entry{Berge}{book}{}
       \name{author}{1}{}{%
