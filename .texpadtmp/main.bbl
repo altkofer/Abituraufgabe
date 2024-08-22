@@ -19,37 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{Aulas}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c4651b19099e750ddba4abe14cacef37}{%
-           family={Aulas},
-           familyi={A\bibinitperiod},
-           given={Francois},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Augsburg}%
-      }
-      \list{publisher}{1}{%
-        {Bechtermünz-Verlag}%
-      }
-      \strng{namehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{fullhash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{bibnamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authorbibnamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authornamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authorfullhash}{c4651b19099e750ddba4abe14cacef37}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Erstaunliche Experimente --- Spielerisch Wissen entdecken}
-      \field{year}{1996}
-    \endentry
     \entry{Ausubel}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
@@ -84,37 +53,6 @@
       \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
       \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
       \field{year}{1963}
-    \endentry
-    \entry{Berge}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2944147d0a7830bce7bcb5e73a72f68b}{%
-           family={Berge},
-           familyi={B\bibinitperiod},
-           given={Otto\bibnamedelima Ernst},
-           giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Quelle \& Meyer}%
-      }
-      \strng{namehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{fullhash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{bibnamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authorbibnamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authornamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authorfullhash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Spielzeug im {P}hysik{U}nterricht}
-      \field{year}{19??}
     \endentry
     \entry{BleichrothDahnckeJung}{book}{}
       \true{moreauthor}
@@ -242,102 +180,56 @@
       \field{title}{Teaching Secondary Science - A Complete Guide}
       \field{year}{2021}
     \endentry
-    \entry{Braun}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7a489fdb24ec52f24dc8868ff781b72f}{%
-           family={Braun},
-           familyi={B\bibinitperiod},
-           given={Jan--Peter},
-           giveni={J\bibinithyphendelim \bibinithyphendelim P\bibinitperiod},
+    \entry{DeciRyan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d733c22238af349bac296bb1e5b60deb}{%
+           family={Deci},
+           familyi={D\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49ad03aeb3155f395016c49dd507c027}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Thun, Frankfurt/Main}%
-      }
-      \list{publisher}{1}{%
-        {Verlag Harri Deutsch}%
-      }
-      \strng{namehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{fullhash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{bibnamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authorbibnamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authornamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authorfullhash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \strng{namehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{fullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{bibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorbibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authornamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorfullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Physikunterricht neu denken}
-      \field{year}{1998}
-    \endentry
-    \entry{KnoffHoff1}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7cb494ea8bcb7be91995e1526b3c9383}{%
-           family={Bublath},
-           familyi={B\bibinitperiod},
-           given={Joachim},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {München}%
-      }
-      \list{publisher}{1}{%
-        {Heyne-Verlag}%
-      }
-      \strng{namehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{fullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{bibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorbibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authornamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorfullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Das KnoffHoff-Buch zur ZDF Fernsehserie}
-      \field{year}{1989}
-    \endentry
-    \entry{KnoffHoff2}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7cb494ea8bcb7be91995e1526b3c9383}{%
-           family={Bublath},
-           familyi={B\bibinitperiod},
-           given={Joachim},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {München}%
-      }
-      \list{publisher}{1}{%
-        {Heyne-Verlag}%
-      }
-      \strng{namehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{fullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{bibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorbibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authornamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorfullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \field{extraname}{2}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{series}{Heyne-Sachbuch}
-      \field{title}{100 mal KnoffHoff}
-      \field{volume}{19}
-      \field{year}{1995}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1047-840X, 1532-7965}
+      \field{journaltitle}{Psychological Inquiry}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{The "{{What}}" and "{{Why}}" of {{Goal Pursuits}}}
+      \field{title}{The "{{What}}" and "{{Why}}" of {{Goal Pursuits}}: {{Human Needs}} and the {{Self-Determination}} of {{Behavior}}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{227\bibrangedash 268}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1207/S15327965PLI1104_01
+      \endverb
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/8JYJEETB/Deci und Ryan - 2000 - The What and Why of Goal Pursuits Human Needs.pdf
+      \endverb
+      \keyw{read}
     \endentry
     \entry{DuitEnergie}{article}{}
       \name{author}{1}{}{%
@@ -412,38 +304,6 @@
       \field{title}{{U}nterricht {P}hysik}
       \field{year}{1981}
     \endentry
-    \entry{Dussler}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a23d4f378c6ea6b13f52d968c09fa13c}{%
-           family={Dussler},
-           familyi={D\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Freising}%
-      }
-      \list{publisher}{1}{%
-        {Stark-Verlagsgesellschaft}%
-      }
-      \strng{namehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{fullhash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{bibnamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authorbibnamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authornamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authorfullhash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Nachdruck von Verlag O.\ Salle 1933}
-      \field{title}{Spiel und Spielzeug im {P}hysik{U}nterricht}
-      \field{year}{1995}
-    \endentry
     \entry{Gagne}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=236bb2626422f9949fdccafeaa2189ba}{%
@@ -480,6 +340,56 @@
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/C9D5M3Z6/ED028638.pdf
       \endverb
+    \endentry
+    \entry{Hattie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7251c15733701c65025dabbf16656e4}{%
+           family={Hattie},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f281bba4f5a6495fff1efb3d0d2bc780}{%
+           family={Beywl},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=195539698d56c5c4e33fbd569b494d95}{%
+           family={Zierer},
+           familyi={Z\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltmannsweiler}%
+      }
+      \list{publisher}{1}{%
+        {Schneider Verlag Hohengehren GmbH}%
+      }
+      \strng{namehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{fullhash}{e7251c15733701c65025dabbf16656e4}
+      \strng{bibnamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authorbibnamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authornamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authorfullhash}{e7251c15733701c65025dabbf16656e4}
+      \strng{editorbibnamehash}{be716a47b1efd6c09a77ab6c334d161a}
+      \strng{editornamehash}{be716a47b1efd6c09a77ab6c334d161a}
+      \strng{editorfullhash}{be716a47b1efd6c09a77ab6c334d161a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der in Australien lehrende Erziehungswissenschaftler beschreibt detailliert die Faktoren, die mit den Lernleistungen der Schüler interagieren und zieht Schlüsse für eine wirksame Gestaltung der Schule sowie für einen guten Unterricht. (LK/DU: Heckmann)}
+      \field{edition}{5. unveränderte Auflage, erweitere Auflage mit Index und Glossar}
+      \field{isbn}{978-3-8340-1450-4}
+      \field{langid}{german}
+      \field{title}{{Lernen sichtbar machen}}
+      \field{year}{2020}
     \endentry
     \entry{JankMeyer}{book}{}
       \name{author}{2}{}{%
@@ -563,6 +473,69 @@
       \field{year}{1997}
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
+      \endverb
+    \endentry
+    \entry{kircherPlanungUndAnalyse2015}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3f9e775fc9617dccd1221daea96b2b8}{%
+           family={Kircher},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a3f9e775fc9617dccd1221daea96b2b8}{%
+           family={Kircher},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c381fdacf75640bb64f685ba98fc2252}{%
+           family={Girwidz},
+           familyi={G\bibinitperiod},
+           given={Raimund},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c1822152e5931bfc59f1c580837ac927}{%
+           family={Häu{ß}ler},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{fullhash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{bibnamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authorbibnamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authornamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authorfullhash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{editorbibnamehash}{621ffd3174f261775458a806fc2a14ee}
+      \strng{editornamehash}{15953d5c3655155ddf43e1cc9297a93f}
+      \strng{editorfullhash}{621ffd3174f261775458a806fc2a14ee}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Physikdidaktik}}
+      \field{isbn}{978-3-642-41744-3 978-3-642-41745-0}
+      \field{langid}{ngerman}
+      \field{title}{{Planung und Analyse von Physikunterricht}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{295\bibrangedash 319}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/978-3-642-41745-0_8
       \endverb
     \endentry
     \entry{KircherSchneider}{book}{}
@@ -767,6 +740,52 @@
       \field{pages}{393\bibrangedash 408}
       \range{pages}{16}
     \endentry
+    \entry{Klippert}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a6835ec1460ccd9008eb788c7f99e5fe}{%
+           family={Klippert},
+           familyi={K\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3b37cdf64485f7c4698434e4e24c3ad}{%
+           family={Clemens},
+           familyi={C\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim Basel}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{fullhash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{bibnamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authorbibnamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authornamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authorfullhash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{100 Lernarrangements/Lernspiralen zum eigenverantwortlichen Arbeiten und Lernen im Fachunterricht. -- So können Lehrkräfte mit relativ einfachen Mitteln eine höchst vielgestaltige und effektive Unterrichtsmethodik auf die Beine stellen. Damit ist gewährleistet, dass grundlegende Arbeits-, Kommunikations- und Kooperationstechniken gepflegt werden. -- Schülerinnen und Schüler lernen, selbstständig und planvoll Aufgaben und Probleme zu lösen, Verantwortung zu übernehmen und Eigeninitiative zu zeigen, Wissen gekonnt zu erwerben und sinnfällig zu strukturieren, moderne Medien zu nutzen und gezielt zu recherchieren, in Gruppen zu arbeiten und überzeugend zu präsentieren}
+      \field{edition}{5., unveränd. Aufl}
+      \field{isbn}{978-3-407-62585-4}
+      \field{langid}{german}
+      \field{series}{{Praxis Beltz}}
+      \field{shorttitle}{{Eigenverantwortliches Arbeiten und Lernen}}
+      \field{title}{{Eigenverantwortliches Arbeiten und Lernen: Bausteine für den Fachunterricht}}
+      \field{year}{2007}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/ASHW2E78/Klippert und Clemens - 2007 - Eigenverantwortliches Arbeiten und Lernen Baustei.pdf
+      \endverb
+    \endentry
     \entry{KMK}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
@@ -793,44 +812,6 @@
       \field{urlyear}{2024}
       \field{year}{2004}
       \field{urldateera}{ce}
-    \endentry
-    \entry{Koeck}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0591e5a63dc5f177799d0f970f09a5f0}{%
-           family={Köck},
-           familyi={K\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=889221c697529d6a767a9faba90f0ada}{%
-           family={Ott},
-           familyi={O\bibinitperiod},
-           given={Hanns},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Donauwörth}%
-      }
-      \list{publisher}{1}{%
-        {Auer}%
-      }
-      \strng{namehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{fullhash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{bibnamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authorbibnamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authornamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authorfullhash}{51166e06fd7a16cc2861487e54af7f32}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{80 DB 2000 K77 (6)}
-      \field{title}{Wörterbuch für {E}rziehung und {U}nterricht}
-      \field{year}{1997}
     \endentry
     \entry{Krathwohl}{article}{}
       \name{author}{1}{}{%
@@ -878,163 +859,50 @@
       \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
       \endverb
     \endentry
-    \entry{LabuddeEWP}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Bonn}%
-      }
-      \list{publisher}{1}{%
-        {Dümmler}%
-      }
-      \strng{namehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{fullhash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{bibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorbibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authornamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorfullhash}{d2bd83f2385b35682073a72f11eec744}
-      \field{extraname}{1}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82/UB 4049 L127}
-      \field{title}{Erlebniswelt Physik}
-      \field{year}{1993}
-    \endentry
-    \entry{LabuddeATP}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Bonn}%
-      }
-      \list{publisher}{1}{%
-        {Dümmler}%
-      }
-      \strng{namehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{fullhash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{bibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorbibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authornamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorfullhash}{d2bd83f2385b35682073a72f11eec744}
-      \field{extraname}{2}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82/UB 4053 L127(3)}
-      \field{title}{Alltagsphysik}
-      \field{year}{1996}
-    \endentry
-    \entry{LabuddeMetzger}{book}{}
+    \entry{Landherr}{book}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
+        {{un=0,uniquepart=base,hash=22047177e7b2d3b7a8c2787c918190e3}{%
+           family={Landherr},
            familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0e0f70976bd63e10cc0d81758f6aaab7}{%
-           family={Metzger},
-           familyi={M\bibinitperiod},
-           given={Susanne},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=3d608896a4f9e58804f9ff9036db66a0}{%
+           family={Bürger},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baltmannsweiler}%
       }
       \list{publisher}{1}{%
-        {Springer}%
+        {Schneider Verlag Hohengehren}%
       }
-      \strng{namehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{fullhash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{bibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authorbibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authornamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authorfullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{namehash}{b324978c15125b651d56aa212658e423}
+      \strng{fullhash}{b324978c15125b651d56aa212658e423}
+      \strng{bibnamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authorbibnamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authornamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authorfullhash}{b324978c15125b651d56aa212658e423}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-8252-5207-6}
-      \field{title}{Fachdidaktik Naturwissenschaft}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Dieses Buch wendet sich an Lehrende in Aus- und Weiterbildung, an Verantwortliche in Schulverwaltungen und in der Lehrerbildung, an Beratende und alle, die bereit sind, Unterricht neu zu denken. ({\dots}) SOL wird von uns als systemischer Ansatz für innovativen Unterricht verstanden, der neben einer fundierten Vermittlung von Fachwissen als dafür entscheidende Ziele und Wege selbständiges, eigenverantwortliches und aktives Lernen anstrebt. Projekt- und interessegeleitetes Lernen statt blo{ß}er Vermittlung vorgegebenen Wissens gehören zu SOL, aber auch eine Methodenvielfalt zur Förderung neuer Lernweisen. Erkenntnisse der Lernforschung werden berücksichtigt}
+      \field{edition}{3., überarbeitete Auflage}
+      \field{isbn}{978-3-8340-1916-5}
+      \field{langid}{german}
+      \field{shorttitle}{{SOL - Selbstorganisiertes Lernen}}
+      \field{title}{{SOL - Selbstorganisiertes Lernen: systematische Kompetenzentwicklung in einer komplexen Welt}}
       \field{year}{2019}
-    \endentry
-    \entry{Lindenblatt}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=473785a5b355f79f556cff216fcf349b}{%
-           family={Lindenblatt},
-           familyi={L\bibinitperiod},
-           given={Felix},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Phywe Lehrmittel}%
-      }
-      \strng{namehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{fullhash}{473785a5b355f79f556cff216fcf349b}
-      \strng{bibnamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authorbibnamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authornamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authorfullhash}{473785a5b355f79f556cff216fcf349b}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Band 1: Wärme, Band 2: Magnetismus --- Elektrischer Strom, Band 3: Wippe/Waage --- Wasser, Band 4: Licht --- Schall --- Luft --- Feuer.}
-      \field{title}{Naturwissenschaftliche Versuche zum Sach{U}nterricht}
-      \field{year}{19??}
-    \endentry
-    \entry{MelenkRunge}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6962f33b9c00b1538f2e395f7dfe6fdc}{%
-           family={Melenk},
-           familyi={M\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=88885e969090a50a4acf5b14fa6a32b7}{%
-           family={Runge},
-           familyi={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Köln}%
-      }
-      \strng{namehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{fullhash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{bibnamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authorbibnamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authornamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authorfullhash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Verblüffende {P}hysikalische Experimente}
-      \field{year}{19??}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/Z357JHNK/Landherr und Bürger - 2019 - SOL - Selbstorganisiertes Lernen systematische Ko.pdf
+      \endverb
     \endentry
     \entry{MeyerUMP}{book}{}
       \name{author}{2}{}{%
@@ -1121,6 +989,9 @@
            giveni={J\bibinithyphendelim P\bibinitperiod},
            givenun=0}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
         {Oldenbourg Verlag}%
       }
@@ -1137,9 +1008,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{987-3-486-71624-5}
-      \field{title}{Grundlegende Experimentiertechnik im Physikunterricht}
+      \field{abstract}{Meyn stellt Experimentiertechniken und Experimente für einen anspruchsvollen Physik-Unterricht in der Sekundarstufe II vor. Dabei beschreibt er jeweils sehr genau die technischen Details bzw. die Versuchsabläufe, gibt auch Hinweise für technischen Optimierungen und macht Vorschläge für den Unterrichtseinsatz. Eine gelungene Praxishilfe für Referendare und für Physik-Lehrer, jetzt durchgehend überarbeitet und auch mit einigen neuen Themen (1. Auflage: ID-B 25/11). (2 S)}
+      \field{edition}{2., aktualisierte Auflage}
+      \field{isbn}{978-3-486-71624-5}
+      \field{langid}{ngerman}
+      \field{title}{{Grundlegende Experimentiertechnik im Physikunterricht}}
       \field{year}{2013}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/N4XT9EQJ/Meyn - 2013 - Grundlegende Experimentiertechnik im Physikunterri.pdf
+      \endverb
     \endentry
     \entry{MichelskisSeifertThieleWünscher}{article}{}
       \name{author}{3}{}{%
@@ -1276,95 +1153,64 @@
       \field{title}{Forschender {P}hysik{U}nterricht}
       \field{year}{1983}
     \endentry
-    \entry{Reble1}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ba0f96c70071bee2c86dfa863bfd4ac7}{%
-           family={Reble},
-           familyi={R\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \strng{namehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{fullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{bibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorbibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authornamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorfullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Geschichte der Pädagogik, Band 1}
-      \field{year}{19??}
-    \endentry
-    \entry{Reble2}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ba0f96c70071bee2c86dfa863bfd4ac7}{%
-           family={Reble},
-           familyi={R\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \strng{namehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{fullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{bibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorbibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authornamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorfullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \field{extraname}{2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Geschichte der Pädagogik, Dokumentarband}
-      \field{year}{???}
-    \endentry
-    \entry{WegeinderPhysikdidaktik4}{book}{}
-      \name{editor}{1}{}{%
-        {{un=0,uniquepart=base,hash=b89eb5df3067b8b4785d968d98712670}{%
-           family={Schneider},
+    \entry{Schecker}{book}{}
+      \name{editor}{4}{}{%
+        {{un=0,uniquepart=base,hash=c8d858713cb9e889098f2b3d8f50041a}{%
+           family={Schecker},
            familyi={S\bibinitperiod},
-           given={Werner\bibnamedelima B.},
-           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ee01926b4dd5a44241d5a17b2aedaf2}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f8a40fd9b647655ffb6d4ded5a5f17}{%
+           family={Hopf},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Erlangen}%
+        {Berlin, Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Palm \& Enke}%
+        {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{fullhash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{bibnamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editorbibnamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editornamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editorfullhash}{b89eb5df3067b8b4785d968d98712670}
+      \strng{namehash}{3d2e0c4041cacec1d67ac884237e4aee}
+      \strng{fullhash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{bibnamehash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{editorbibnamehash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{editornamehash}{3d2e0c4041cacec1d67ac884237e4aee}
+      \strng{editorfullhash}{b250b9f5a3932277458e42fff937dc7d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{Wege in der {P}hysik-Didaktik}
-      \field{volume}{4}
-      \field{year}{1998}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-57269-6 978-3-662-57270-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Schülervorstellungen und Physikunterricht}}
+      \field{title}{{Schülervorstellungen und Physikunterricht: Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/EZY3KYSQ/Schecker et al. - 2018 - Schülervorstellungen und Physikunterricht Ein Leh.pdf
+      \endverb
     \endentry
     \entry{Stoecker}{book}{}
       \name{author}{1}{}{%
@@ -1396,68 +1242,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Taschenbuch {P}hysik}
       \field{year}{1998}
-    \endentry
-    \entry{Wilhelm}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b3bfc32bf03258a19d21edb7fe43c6dc}{%
-           family={Horst\bibnamedelimb Schecker\bibnamedelimb und\bibnamedelimb Martin\bibnamedelima Hopf},
-           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod},
-           given={Thomas\bibnamedelima Wilhelm},
-           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0,
-           prefix={und},
-           prefixi={u\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{fullhash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{bibnamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authorbibnamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authornamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authorfullhash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-662-63052-5}
-      \field{title}{Unterrichtskonzeptionen für den Physikunterricht - Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}
-      \field{year}{2021}
-    \endentry
-    \entry{Schecker}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6e1baeb50abb3142a22fcd574ece09b7}{%
-           family={Thomas\bibnamedelimb Wilhelm\bibnamedelimb und\bibnamedelimb Martin\bibnamedelimb Hopf\bibnamedelimb und\bibnamedelimb Reinders\bibnamedelima Duit},
-           familyi={T\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           given={Horst\bibnamedelima Schecker},
-           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0,
-           prefix={und},
-           prefixi={u\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{fullhash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{bibnamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authorbibnamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authornamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authorfullhash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-662-57269-6}
-      \field{title}{Schülervorstellungen und Physikunterricht - Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}
-      \field{year}{2018}
     \endentry
     \entry{WagenscheinPDP}{book}{}
       \name{author}{1}{}{%
@@ -1555,99 +1339,61 @@
       \field{title}{{Leistungsmessungen in Schulen}}
       \field{year}{2014}
     \endentry
-    \entry{Willer}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6f8e3066be6c87c58d31656468d86c66}{%
-           family={Willer},
+    \entry{Wilhelm}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=5ee01926b4dd5a44241d5a17b2aedaf2}{%
+           family={Wilhelm},
            familyi={W\bibinitperiod},
-           given={Jörg},
-           giveni={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8d858713cb9e889098f2b3d8f50041a}{%
+           family={Schecker},
+           familyi={S\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f8a40fd9b647655ffb6d4ded5a5f17}{%
+           family={Hopf},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Frankfurt a.\ Main}%
+        {Berlin, Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Verlag Harri Deutsch}%
+        {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{fullhash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{bibnamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authorbibnamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authornamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authorfullhash}{6f8e3066be6c87c58d31656468d86c66}
+      \strng{namehash}{e96ff5bb16eb4aaae7c163ebead2ec4e}
+      \strng{fullhash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{bibnamehash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{editorbibnamehash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{editornamehash}{e96ff5bb16eb4aaae7c163ebead2ec4e}
+      \strng{editorfullhash}{34bc552c37619b8b7f94ed28079db835}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82 UB 4056 W 712}
-      \field{title}{Didaktik des {P}hysikunterichts}
-      \field{year}{2003}
-    \endentry
-    \entry{ZeierKW}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=572630a8aa8b18a1b3c0e94855c71902}{%
-           family={Zeier},
-           familyi={Z\bibinitperiod},
-           given={Ernst},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Köln}%
-      }
-      \strng{namehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{fullhash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{bibnamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authorbibnamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authornamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authorfullhash}{572630a8aa8b18a1b3c0e94855c71902}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Kurzweil durch {P}hysik}
-      \field{year}{1991}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-63052-5 978-3-662-63053-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Unterrichtskonzeptionen für den Physikunterricht}}
+      \field{title}{{Unterrichtskonzeptionen für den Physikunterricht: Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/KY6GE22A/Wilhelm et al. - 2021 - Unterrichtskonzeptionen für den Physikunterricht .pdf
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{Aulas}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c4651b19099e750ddba4abe14cacef37}{%
-           family={Aulas},
-           familyi={A\bibinitperiod},
-           given={Francois},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Augsburg}%
-      }
-      \list{publisher}{1}{%
-        {Bechtermünz-Verlag}%
-      }
-      \strng{namehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{fullhash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{bibnamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authorbibnamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authornamehash}{c4651b19099e750ddba4abe14cacef37}
-      \strng{authorfullhash}{c4651b19099e750ddba4abe14cacef37}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Erstaunliche Experimente --- Spielerisch Wissen entdecken}
-      \field{year}{1996}
-    \endentry
     \entry{Ausubel}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
@@ -1682,37 +1428,6 @@
       \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
       \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
       \field{year}{1963}
-    \endentry
-    \entry{Berge}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2944147d0a7830bce7bcb5e73a72f68b}{%
-           family={Berge},
-           familyi={B\bibinitperiod},
-           given={Otto\bibnamedelima Ernst},
-           giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Quelle \& Meyer}%
-      }
-      \strng{namehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{fullhash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{bibnamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authorbibnamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authornamehash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \strng{authorfullhash}{2944147d0a7830bce7bcb5e73a72f68b}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Spielzeug im {P}hysik{U}nterricht}
-      \field{year}{19??}
     \endentry
     \entry{BleichrothDahnckeJung}{book}{}
       \true{moreauthor}
@@ -1840,102 +1555,56 @@
       \field{title}{Teaching Secondary Science - A Complete Guide}
       \field{year}{2021}
     \endentry
-    \entry{Braun}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7a489fdb24ec52f24dc8868ff781b72f}{%
-           family={Braun},
-           familyi={B\bibinitperiod},
-           given={Jan--Peter},
-           giveni={J\bibinithyphendelim \bibinithyphendelim P\bibinitperiod},
+    \entry{DeciRyan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d733c22238af349bac296bb1e5b60deb}{%
+           family={Deci},
+           familyi={D\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49ad03aeb3155f395016c49dd507c027}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Thun, Frankfurt/Main}%
-      }
-      \list{publisher}{1}{%
-        {Verlag Harri Deutsch}%
-      }
-      \strng{namehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{fullhash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{bibnamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authorbibnamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authornamehash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \strng{authorfullhash}{7a489fdb24ec52f24dc8868ff781b72f}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \strng{namehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{fullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{bibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorbibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authornamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorfullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Physikunterricht neu denken}
-      \field{year}{1998}
-    \endentry
-    \entry{KnoffHoff1}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7cb494ea8bcb7be91995e1526b3c9383}{%
-           family={Bublath},
-           familyi={B\bibinitperiod},
-           given={Joachim},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {München}%
-      }
-      \list{publisher}{1}{%
-        {Heyne-Verlag}%
-      }
-      \strng{namehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{fullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{bibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorbibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authornamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorfullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \field{extraname}{1}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Das KnoffHoff-Buch zur ZDF Fernsehserie}
-      \field{year}{1989}
-    \endentry
-    \entry{KnoffHoff2}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7cb494ea8bcb7be91995e1526b3c9383}{%
-           family={Bublath},
-           familyi={B\bibinitperiod},
-           given={Joachim},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {München}%
-      }
-      \list{publisher}{1}{%
-        {Heyne-Verlag}%
-      }
-      \strng{namehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{fullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{bibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorbibnamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authornamehash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \strng{authorfullhash}{7cb494ea8bcb7be91995e1526b3c9383}
-      \field{extraname}{2}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{series}{Heyne-Sachbuch}
-      \field{title}{100 mal KnoffHoff}
-      \field{volume}{19}
-      \field{year}{1995}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1047-840X, 1532-7965}
+      \field{journaltitle}{Psychological Inquiry}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{4}
+      \field{shorttitle}{The "{{What}}" and "{{Why}}" of {{Goal Pursuits}}}
+      \field{title}{The "{{What}}" and "{{Why}}" of {{Goal Pursuits}}: {{Human Needs}} and the {{Self-Determination}} of {{Behavior}}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \field{pages}{227\bibrangedash 268}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.1207/S15327965PLI1104_01
+      \endverb
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/8JYJEETB/Deci und Ryan - 2000 - The What and Why of Goal Pursuits Human Needs.pdf
+      \endverb
+      \keyw{read}
     \endentry
     \entry{DuitEnergie}{article}{}
       \name{author}{1}{}{%
@@ -2010,38 +1679,6 @@
       \field{title}{{U}nterricht {P}hysik}
       \field{year}{1981}
     \endentry
-    \entry{Dussler}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a23d4f378c6ea6b13f52d968c09fa13c}{%
-           family={Dussler},
-           familyi={D\bibinitperiod},
-           given={G.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Freising}%
-      }
-      \list{publisher}{1}{%
-        {Stark-Verlagsgesellschaft}%
-      }
-      \strng{namehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{fullhash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{bibnamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authorbibnamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authornamehash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \strng{authorfullhash}{a23d4f378c6ea6b13f52d968c09fa13c}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Nachdruck von Verlag O.\ Salle 1933}
-      \field{title}{Spiel und Spielzeug im {P}hysik{U}nterricht}
-      \field{year}{1995}
-    \endentry
     \entry{Gagne}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=236bb2626422f9949fdccafeaa2189ba}{%
@@ -2078,6 +1715,56 @@
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/C9D5M3Z6/ED028638.pdf
       \endverb
+    \endentry
+    \entry{Hattie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e7251c15733701c65025dabbf16656e4}{%
+           family={Hattie},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f281bba4f5a6495fff1efb3d0d2bc780}{%
+           family={Beywl},
+           familyi={B\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=195539698d56c5c4e33fbd569b494d95}{%
+           family={Zierer},
+           familyi={Z\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltmannsweiler}%
+      }
+      \list{publisher}{1}{%
+        {Schneider Verlag Hohengehren GmbH}%
+      }
+      \strng{namehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{fullhash}{e7251c15733701c65025dabbf16656e4}
+      \strng{bibnamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authorbibnamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authornamehash}{e7251c15733701c65025dabbf16656e4}
+      \strng{authorfullhash}{e7251c15733701c65025dabbf16656e4}
+      \strng{editorbibnamehash}{be716a47b1efd6c09a77ab6c334d161a}
+      \strng{editornamehash}{be716a47b1efd6c09a77ab6c334d161a}
+      \strng{editorfullhash}{be716a47b1efd6c09a77ab6c334d161a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Der in Australien lehrende Erziehungswissenschaftler beschreibt detailliert die Faktoren, die mit den Lernleistungen der Schüler interagieren und zieht Schlüsse für eine wirksame Gestaltung der Schule sowie für einen guten Unterricht. (LK/DU: Heckmann)}
+      \field{edition}{5. unveränderte Auflage, erweitere Auflage mit Index und Glossar}
+      \field{isbn}{978-3-8340-1450-4}
+      \field{langid}{german}
+      \field{title}{{Lernen sichtbar machen}}
+      \field{year}{2020}
     \endentry
     \entry{JankMeyer}{book}{}
       \name{author}{2}{}{%
@@ -2161,6 +1848,69 @@
       \field{year}{1997}
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
+      \endverb
+    \endentry
+    \entry{kircherPlanungUndAnalyse2015}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a3f9e775fc9617dccd1221daea96b2b8}{%
+           family={Kircher},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=a3f9e775fc9617dccd1221daea96b2b8}{%
+           family={Kircher},
+           familyi={K\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c381fdacf75640bb64f685ba98fc2252}{%
+           family={Girwidz},
+           familyi={G\bibinitperiod},
+           given={Raimund},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c1822152e5931bfc59f1c580837ac927}{%
+           family={Häu{ß}ler},
+           familyi={H\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{fullhash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{bibnamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authorbibnamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authornamehash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{authorfullhash}{a3f9e775fc9617dccd1221daea96b2b8}
+      \strng{editorbibnamehash}{621ffd3174f261775458a806fc2a14ee}
+      \strng{editornamehash}{15953d5c3655155ddf43e1cc9297a93f}
+      \strng{editorfullhash}{621ffd3174f261775458a806fc2a14ee}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Physikdidaktik}}
+      \field{isbn}{978-3-642-41744-3 978-3-642-41745-0}
+      \field{langid}{ngerman}
+      \field{title}{{Planung und Analyse von Physikunterricht}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{295\bibrangedash 319}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1007/978-3-642-41745-0_8
       \endverb
     \endentry
     \entry{KircherGirwidzHaussler3}{book}{}
@@ -2365,6 +2115,52 @@
       \field{pages}{393\bibrangedash 408}
       \range{pages}{16}
     \endentry
+    \entry{Klippert}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a6835ec1460ccd9008eb788c7f99e5fe}{%
+           family={Klippert},
+           familyi={K\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3b37cdf64485f7c4698434e4e24c3ad}{%
+           family={Clemens},
+           familyi={C\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Weinheim Basel}%
+      }
+      \list{publisher}{1}{%
+        {Beltz}%
+      }
+      \strng{namehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{fullhash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{bibnamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authorbibnamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authornamehash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \strng{authorfullhash}{4cfc80fe2c748eb629d2ca555f19144a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{100 Lernarrangements/Lernspiralen zum eigenverantwortlichen Arbeiten und Lernen im Fachunterricht. -- So können Lehrkräfte mit relativ einfachen Mitteln eine höchst vielgestaltige und effektive Unterrichtsmethodik auf die Beine stellen. Damit ist gewährleistet, dass grundlegende Arbeits-, Kommunikations- und Kooperationstechniken gepflegt werden. -- Schülerinnen und Schüler lernen, selbstständig und planvoll Aufgaben und Probleme zu lösen, Verantwortung zu übernehmen und Eigeninitiative zu zeigen, Wissen gekonnt zu erwerben und sinnfällig zu strukturieren, moderne Medien zu nutzen und gezielt zu recherchieren, in Gruppen zu arbeiten und überzeugend zu präsentieren}
+      \field{edition}{5., unveränd. Aufl}
+      \field{isbn}{978-3-407-62585-4}
+      \field{langid}{german}
+      \field{series}{{Praxis Beltz}}
+      \field{shorttitle}{{Eigenverantwortliches Arbeiten und Lernen}}
+      \field{title}{{Eigenverantwortliches Arbeiten und Lernen: Bausteine für den Fachunterricht}}
+      \field{year}{2007}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/ASHW2E78/Klippert und Clemens - 2007 - Eigenverantwortliches Arbeiten und Lernen Baustei.pdf
+      \endverb
+    \endentry
     \entry{KMK}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
@@ -2391,44 +2187,6 @@
       \field{urlyear}{2024}
       \field{year}{2004}
       \field{urldateera}{ce}
-    \endentry
-    \entry{Koeck}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=0591e5a63dc5f177799d0f970f09a5f0}{%
-           family={Köck},
-           familyi={K\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=889221c697529d6a767a9faba90f0ada}{%
-           family={Ott},
-           familyi={O\bibinitperiod},
-           given={Hanns},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Donauwörth}%
-      }
-      \list{publisher}{1}{%
-        {Auer}%
-      }
-      \strng{namehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{fullhash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{bibnamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authorbibnamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authornamehash}{51166e06fd7a16cc2861487e54af7f32}
-      \strng{authorfullhash}{51166e06fd7a16cc2861487e54af7f32}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{80 DB 2000 K77 (6)}
-      \field{title}{Wörterbuch für {E}rziehung und {U}nterricht}
-      \field{year}{1997}
     \endentry
     \entry{Krathwohl}{article}{}
       \name{author}{1}{}{%
@@ -2476,163 +2234,50 @@
       \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
       \endverb
     \endentry
-    \entry{LabuddeEWP}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Bonn}%
-      }
-      \list{publisher}{1}{%
-        {Dümmler}%
-      }
-      \strng{namehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{fullhash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{bibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorbibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authornamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorfullhash}{d2bd83f2385b35682073a72f11eec744}
-      \field{extraname}{1}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82/UB 4049 L127}
-      \field{title}{Erlebniswelt Physik}
-      \field{year}{1993}
-    \endentry
-    \entry{LabuddeATP}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
-           familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Bonn}%
-      }
-      \list{publisher}{1}{%
-        {Dümmler}%
-      }
-      \strng{namehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{fullhash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{bibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorbibnamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authornamehash}{d2bd83f2385b35682073a72f11eec744}
-      \strng{authorfullhash}{d2bd83f2385b35682073a72f11eec744}
-      \field{extraname}{2}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82/UB 4053 L127(3)}
-      \field{title}{Alltagsphysik}
-      \field{year}{1996}
-    \endentry
-    \entry{LabuddeMetzger}{book}{}
+    \entry{Landherr}{book}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
-           family={Labudde},
+        {{un=0,uniquepart=base,hash=22047177e7b2d3b7a8c2787c918190e3}{%
+           family={Landherr},
            familyi={L\bibinitperiod},
-           given={Peter},
-           giveni={P\bibinitperiod},
+           given={Birgit},
+           giveni={B\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=0e0f70976bd63e10cc0d81758f6aaab7}{%
-           family={Metzger},
-           familyi={M\bibinitperiod},
-           given={Susanne},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=3d608896a4f9e58804f9ff9036db66a0}{%
+           family={Bürger},
+           familyi={B\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod},
            givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baltmannsweiler}%
       }
       \list{publisher}{1}{%
-        {Springer}%
+        {Schneider Verlag Hohengehren}%
       }
-      \strng{namehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{fullhash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{bibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authorbibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authornamehash}{cb90f2390aebe56570aa3dfb0612c434}
-      \strng{authorfullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{namehash}{b324978c15125b651d56aa212658e423}
+      \strng{fullhash}{b324978c15125b651d56aa212658e423}
+      \strng{bibnamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authorbibnamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authornamehash}{b324978c15125b651d56aa212658e423}
+      \strng{authorfullhash}{b324978c15125b651d56aa212658e423}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-8252-5207-6}
-      \field{title}{Fachdidaktik Naturwissenschaft}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Dieses Buch wendet sich an Lehrende in Aus- und Weiterbildung, an Verantwortliche in Schulverwaltungen und in der Lehrerbildung, an Beratende und alle, die bereit sind, Unterricht neu zu denken. ({\dots}) SOL wird von uns als systemischer Ansatz für innovativen Unterricht verstanden, der neben einer fundierten Vermittlung von Fachwissen als dafür entscheidende Ziele und Wege selbständiges, eigenverantwortliches und aktives Lernen anstrebt. Projekt- und interessegeleitetes Lernen statt blo{ß}er Vermittlung vorgegebenen Wissens gehören zu SOL, aber auch eine Methodenvielfalt zur Förderung neuer Lernweisen. Erkenntnisse der Lernforschung werden berücksichtigt}
+      \field{edition}{3., überarbeitete Auflage}
+      \field{isbn}{978-3-8340-1916-5}
+      \field{langid}{german}
+      \field{shorttitle}{{SOL - Selbstorganisiertes Lernen}}
+      \field{title}{{SOL - Selbstorganisiertes Lernen: systematische Kompetenzentwicklung in einer komplexen Welt}}
       \field{year}{2019}
-    \endentry
-    \entry{Lindenblatt}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=473785a5b355f79f556cff216fcf349b}{%
-           family={Lindenblatt},
-           familyi={L\bibinitperiod},
-           given={Felix},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Phywe Lehrmittel}%
-      }
-      \strng{namehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{fullhash}{473785a5b355f79f556cff216fcf349b}
-      \strng{bibnamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authorbibnamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authornamehash}{473785a5b355f79f556cff216fcf349b}
-      \strng{authorfullhash}{473785a5b355f79f556cff216fcf349b}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Band 1: Wärme, Band 2: Magnetismus --- Elektrischer Strom, Band 3: Wippe/Waage --- Wasser, Band 4: Licht --- Schall --- Luft --- Feuer.}
-      \field{title}{Naturwissenschaftliche Versuche zum Sach{U}nterricht}
-      \field{year}{19??}
-    \endentry
-    \entry{MelenkRunge}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6962f33b9c00b1538f2e395f7dfe6fdc}{%
-           family={Melenk},
-           familyi={M\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=88885e969090a50a4acf5b14fa6a32b7}{%
-           family={Runge},
-           familyi={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Köln}%
-      }
-      \strng{namehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{fullhash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{bibnamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authorbibnamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authornamehash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \strng{authorfullhash}{c0bb7dc8d02c90954b512bfca31b8ecd}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Verblüffende {P}hysikalische Experimente}
-      \field{year}{19??}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/Z357JHNK/Landherr und Bürger - 2019 - SOL - Selbstorganisiertes Lernen systematische Ko.pdf
+      \endverb
     \endentry
     \entry{MeyerUMP}{book}{}
       \name{author}{2}{}{%
@@ -2719,6 +2364,9 @@
            giveni={J\bibinithyphendelim P\bibinitperiod},
            givenun=0}}%
       }
+      \list{location}{1}{%
+        {München}%
+      }
       \list{publisher}{1}{%
         {Oldenbourg Verlag}%
       }
@@ -2735,9 +2383,15 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{987-3-486-71624-5}
-      \field{title}{Grundlegende Experimentiertechnik im Physikunterricht}
+      \field{abstract}{Meyn stellt Experimentiertechniken und Experimente für einen anspruchsvollen Physik-Unterricht in der Sekundarstufe II vor. Dabei beschreibt er jeweils sehr genau die technischen Details bzw. die Versuchsabläufe, gibt auch Hinweise für technischen Optimierungen und macht Vorschläge für den Unterrichtseinsatz. Eine gelungene Praxishilfe für Referendare und für Physik-Lehrer, jetzt durchgehend überarbeitet und auch mit einigen neuen Themen (1. Auflage: ID-B 25/11). (2 S)}
+      \field{edition}{2., aktualisierte Auflage}
+      \field{isbn}{978-3-486-71624-5}
+      \field{langid}{ngerman}
+      \field{title}{{Grundlegende Experimentiertechnik im Physikunterricht}}
       \field{year}{2013}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/N4XT9EQJ/Meyn - 2013 - Grundlegende Experimentiertechnik im Physikunterri.pdf
+      \endverb
     \endentry
     \entry{MichelskisSeifertThieleWünscher}{article}{}
       \name{author}{3}{}{%
@@ -2874,95 +2528,64 @@
       \field{title}{Forschender {P}hysik{U}nterricht}
       \field{year}{1983}
     \endentry
-    \entry{Reble1}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ba0f96c70071bee2c86dfa863bfd4ac7}{%
-           family={Reble},
-           familyi={R\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \strng{namehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{fullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{bibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorbibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authornamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorfullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Geschichte der Pädagogik, Band 1}
-      \field{year}{19??}
-    \endentry
-    \entry{Reble2}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ba0f96c70071bee2c86dfa863bfd4ac7}{%
-           family={Reble},
-           familyi={R\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Stuttgart}%
-      }
-      \strng{namehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{fullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{bibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorbibnamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authornamehash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \strng{authorfullhash}{ba0f96c70071bee2c86dfa863bfd4ac7}
-      \field{extraname}{2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Geschichte der Pädagogik, Dokumentarband}
-      \field{year}{???}
-    \endentry
-    \entry{WegeinderPhysikdidaktik4}{book}{}
-      \name{editor}{1}{}{%
-        {{un=0,uniquepart=base,hash=b89eb5df3067b8b4785d968d98712670}{%
-           family={Schneider},
+    \entry{Schecker}{book}{}
+      \name{editor}{4}{}{%
+        {{un=0,uniquepart=base,hash=c8d858713cb9e889098f2b3d8f50041a}{%
+           family={Schecker},
            familyi={S\bibinitperiod},
-           given={Werner\bibnamedelima B.},
-           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ee01926b4dd5a44241d5a17b2aedaf2}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f8a40fd9b647655ffb6d4ded5a5f17}{%
+           family={Hopf},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Erlangen}%
+        {Berlin, Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Palm \& Enke}%
+        {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{fullhash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{bibnamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editorbibnamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editornamehash}{b89eb5df3067b8b4785d968d98712670}
-      \strng{editorfullhash}{b89eb5df3067b8b4785d968d98712670}
+      \strng{namehash}{3d2e0c4041cacec1d67ac884237e4aee}
+      \strng{fullhash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{bibnamehash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{editorbibnamehash}{b250b9f5a3932277458e42fff937dc7d}
+      \strng{editornamehash}{3d2e0c4041cacec1d67ac884237e4aee}
+      \strng{editorfullhash}{b250b9f5a3932277458e42fff937dc7d}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{editor}
-      \field{labeltitlesource}{title}
-      \field{title}{Wege in der {P}hysik-Didaktik}
-      \field{volume}{4}
-      \field{year}{1998}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-57269-6 978-3-662-57270-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Schülervorstellungen und Physikunterricht}}
+      \field{title}{{Schülervorstellungen und Physikunterricht: Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/EZY3KYSQ/Schecker et al. - 2018 - Schülervorstellungen und Physikunterricht Ein Leh.pdf
+      \endverb
     \endentry
     \entry{Stoecker}{book}{}
       \name{author}{1}{}{%
@@ -2994,68 +2617,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Taschenbuch {P}hysik}
       \field{year}{1998}
-    \endentry
-    \entry{Wilhelm}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b3bfc32bf03258a19d21edb7fe43c6dc}{%
-           family={Horst\bibnamedelimb Schecker\bibnamedelimb und\bibnamedelimb Martin\bibnamedelima Hopf},
-           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod},
-           given={Thomas\bibnamedelima Wilhelm},
-           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0,
-           prefix={und},
-           prefixi={u\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{fullhash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{bibnamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authorbibnamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authornamehash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \strng{authorfullhash}{b3bfc32bf03258a19d21edb7fe43c6dc}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-662-63052-5}
-      \field{title}{Unterrichtskonzeptionen für den Physikunterricht - Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}
-      \field{year}{2021}
-    \endentry
-    \entry{Schecker}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6e1baeb50abb3142a22fcd574ece09b7}{%
-           family={Thomas\bibnamedelimb Wilhelm\bibnamedelimb und\bibnamedelimb Martin\bibnamedelimb Hopf\bibnamedelimb und\bibnamedelimb Reinders\bibnamedelima Duit},
-           familyi={T\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           given={Horst\bibnamedelima Schecker},
-           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0,
-           prefix={und},
-           prefixi={u\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{fullhash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{bibnamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authorbibnamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authornamehash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \strng{authorfullhash}{6e1baeb50abb3142a22fcd574ece09b7}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{987-3-662-57269-6}
-      \field{title}{Schülervorstellungen und Physikunterricht - Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}
-      \field{year}{2018}
     \endentry
     \entry{WagenscheinPDP}{book}{}
       \name{author}{1}{}{%
@@ -3153,67 +2714,61 @@
       \field{title}{{Leistungsmessungen in Schulen}}
       \field{year}{2014}
     \endentry
-    \entry{Willer}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6f8e3066be6c87c58d31656468d86c66}{%
-           family={Willer},
+    \entry{Wilhelm}{book}{}
+      \name{editor}{3}{}{%
+        {{un=0,uniquepart=base,hash=5ee01926b4dd5a44241d5a17b2aedaf2}{%
+           family={Wilhelm},
            familyi={W\bibinitperiod},
-           given={Jörg},
-           giveni={J\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8d858713cb9e889098f2b3d8f50041a}{%
+           family={Schecker},
+           familyi={S\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f8a40fd9b647655ffb6d4ded5a5f17}{%
+           family={Hopf},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Frankfurt a.\ Main}%
+        {Berlin, Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Verlag Harri Deutsch}%
+        {Springer Berlin Heidelberg}%
       }
-      \strng{namehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{fullhash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{bibnamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authorbibnamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authornamehash}{6f8e3066be6c87c58d31656468d86c66}
-      \strng{authorfullhash}{6f8e3066be6c87c58d31656468d86c66}
+      \strng{namehash}{e96ff5bb16eb4aaae7c163ebead2ec4e}
+      \strng{fullhash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{bibnamehash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{editorbibnamehash}{34bc552c37619b8b7f94ed28079db835}
+      \strng{editornamehash}{e96ff5bb16eb4aaae7c163ebead2ec4e}
+      \strng{editorfullhash}{34bc552c37619b8b7f94ed28079db835}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{82 UB 4056 W 712}
-      \field{title}{Didaktik des {P}hysikunterichts}
-      \field{year}{2003}
-    \endentry
-    \entry{ZeierKW}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=572630a8aa8b18a1b3c0e94855c71902}{%
-           family={Zeier},
-           familyi={Z\bibinitperiod},
-           given={Ernst},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Köln}%
-      }
-      \strng{namehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{fullhash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{bibnamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authorbibnamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authornamehash}{572630a8aa8b18a1b3c0e94855c71902}
-      \strng{authorfullhash}{572630a8aa8b18a1b3c0e94855c71902}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Kurzweil durch {P}hysik}
-      \field{year}{1991}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-3-662-63052-5 978-3-662-63053-2}
+      \field{langid}{ngerman}
+      \field{shorttitle}{{Unterrichtskonzeptionen für den Physikunterricht}}
+      \field{title}{{Unterrichtskonzeptionen für den Physikunterricht: Ein Lehrbuch für Studium, Referendariat und Unterrichtspraxis}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/juliushlawatsch/Zotero/storage/KY6GE22A/Wilhelm et al. - 2021 - Unterrichtskonzeptionen für den Physikunterricht .pdf
+      \endverb
     \endentry
   \enddatalist
+  \missing{LabuddeMetzger}
 \endrefsection
 \endinput
 
