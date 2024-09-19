@@ -19,41 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{Ausubel}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
-           family={Ausubel},
-           familyi={A\bibinitperiod},
-           given={David\bibnamedelima Paul},
-           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Grune \& Stratton}%
-      }
-      \strng{namehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{fullhash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{bibnamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authorbibnamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authornamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authorfullhash}{362233df2db00e192eb9dc19d7107d53}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{annotation}{OCLC: 183907}
-      \field{isbn}{978-0-8089-0025-2}
-      \field{langid}{english}
-      \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
-      \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
-      \field{year}{1963}
-    \endentry
     \entry{BleichrothDahnckeJung}{book}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -260,6 +225,39 @@
       \field{year}{1980}
       \field{pages}{354\bibrangedash 358}
       \range{pages}{5}
+    \endentry
+    \entry{piko4}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3b65cd0755cca2beb3397dbfb3d4d9e}{%
+           family={Wodzinski},
+           familyi={W\bibinitperiod},
+           given={Christoph\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{fullhash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{bibnamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authorbibnamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authornamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authorfullhash}{33c40636d7f8402ddae780a3feac1e68}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PIKO-Brief}
+      \field{number}{4}
+      \field{title}{Merkmale ,,guten'' Physikunterrichts}
+      \field{year}{2010}
     \endentry
     \entry{DuitHausslerKircher}{book}{}
       \name{author}{3}{}{%
@@ -469,8 +467,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Das {{Modell}} Der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} Für Naturwissenschaftsdidaktische {{Forschung}} Und {{Entwicklung}}.}
+      \field{journaltitle}{Zeitschrift für Didaktik der Naturwissenschaften}
+      \field{number}{Heft 3}
+      \field{title}{Das {{Modell}} der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} für naturwissenschaftsdidaktische {{Forschung}} und {{Entwicklung}}.}
+      \field{volume}{Jg. 3}
       \field{year}{1997}
+      \field{pages}{3\bibrangedash 18}
+      \range{pages}{16}
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
       \endverb
@@ -788,16 +791,16 @@
     \endentry
     \entry{KMK}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
-           family={{KMK -- Ständige Konferenz der Kultusminister in der Bundesrepublik Deutschland}},
+        {{un=0,uniquepart=base,hash=5d8a1628bcfa940abd620ebd64312897}{%
+           family={KMK},
            familyi={K\bibinitperiod}}}%
       }
-      \strng{namehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{fullhash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{bibnamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authorbibnamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authornamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authorfullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{namehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{fullhash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{bibnamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authorbibnamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authornamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authorfullhash}{5d8a1628bcfa940abd620ebd64312897}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -857,6 +860,56 @@
       \endverb
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
+      \endverb
+    \endentry
+    \entry{LambuddeMetzger}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
+           family={Labudde},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e0f70976bd63e10cc0d81758f6aaab7}{%
+           family={Metzger},
+           familyi={M\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart, Deutschland}%
+      }
+      \list{publisher}{1}{%
+        {utb GmbH}%
+      }
+      \strng{namehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{fullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{bibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editorbibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editornamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editorfullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Konkrete Unterrichtsbeispiele und fachdidaktische Tipps -- ,,Fachdidaktik Naturwissenschaft`` enthält beides: Pro Doppelseite wird jeweils links die naturwissenschaftsdidaktische Theorie vorgestellt, während rechts entsprechende unterrichtspraktische Umsetzungsmöglichkeiten präsentiert werden. In 18 Kapiteln werden zentrale fachdidaktische Themen für die Praxis aufgearbeitet.}
+      \field{edition}{3}
+      \field{isbn}{978-3-8385-5207-1}
+      \field{langid}{ngerman}
+      \field{month}{8}
+      \field{shorttitle}{{Fachdidaktik Naturwissenschaft}}
+      \field{title}{{Fachdidaktik Naturwissenschaft: 1.- 9. Schuljahr}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.36198/9783838552071
       \endverb
     \endentry
     \entry{Landherr}{book}{}
@@ -1057,6 +1110,8 @@
       \field{title}{Modellieren -- Schlüsselfähigkeit für physikalische Forschungs- und Lernprozesse}
       \field{volume}{1}
       \field{year}{2005}
+      \field{pages}{30\bibrangedash 45}
+      \range{pages}{16}
     \endentry
     \entry{Muckenfuss}{book}{}
       \name{author}{1}{}{%
@@ -1253,10 +1308,10 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Braunschweig}%
+        {Braunschweit}%
       }
       \list{publisher}{1}{%
-        {???}%
+        {Westermann}%
       }
       \strng{namehash}{626aad55e2fb2bb743ac63a1b88d0ec2}
       \strng{fullhash}{626aad55e2fb2bb743ac63a1b88d0ec2}
@@ -1272,8 +1327,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Die pädagogische Dimension der {P}hysik}
-      \field{year}{1962}
+      \field{isbn}{978-3-141-60159-6}
+      \field{title}{Die pädagogische Dimension der Physik}
+      \field{year}{1971}
     \endentry
     \entry{WagenscheinNSV}{book}{}
       \name{author}{1}{}{%
@@ -1284,8 +1340,11 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
+      \list{location}{1}{%
+        {Bern}%
+      }
       \list{publisher}{1}{%
-        {???}%
+        {hep der bildungsverlag}%
       }
       \strng{namehash}{626aad55e2fb2bb743ac63a1b88d0ec2}
       \strng{fullhash}{626aad55e2fb2bb743ac63a1b88d0ec2}
@@ -1301,8 +1360,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Naturphänomene sehen und verstehen}
-      \field{year}{?}
+      \field{isbn}{978-3-035-51014-0}
+      \field{title}{Naturphänomene sehen und verstehen - genetische Lehrgänge : das Wagenschein-Studienbuch}
+      \field{year}{2009}
     \endentry
     \entry{Weinert}{book}{}
       \name{editor}{1}{}{%
@@ -1394,41 +1454,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{Ausubel}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=362233df2db00e192eb9dc19d7107d53}{%
-           family={Ausubel},
-           familyi={A\bibinitperiod},
-           given={David\bibnamedelima Paul},
-           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Grune \& Stratton}%
-      }
-      \strng{namehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{fullhash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{bibnamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authorbibnamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authornamehash}{362233df2db00e192eb9dc19d7107d53}
-      \strng{authorfullhash}{362233df2db00e192eb9dc19d7107d53}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{annotation}{OCLC: 183907}
-      \field{isbn}{978-0-8089-0025-2}
-      \field{langid}{english}
-      \field{shorttitle}{The Psychology of Meaningful Verbal Learning}
-      \field{title}{The Psychology of Meaningful Verbal Learning: An Introduction to School Learning}
-      \field{year}{1963}
-    \endentry
     \entry{BleichrothDahnckeJung}{book}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -1679,6 +1704,39 @@
       \field{title}{{U}nterricht {P}hysik}
       \field{year}{1981}
     \endentry
+    \entry{piko4}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2fe7c44c2a618e5e1c9cef6a528bb63}{%
+           family={Duit},
+           familyi={D\bibinitperiod},
+           given={Reinders},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3b65cd0755cca2beb3397dbfb3d4d9e}{%
+           family={Wodzinski},
+           familyi={W\bibinitperiod},
+           given={Christoph\bibnamedelima T.},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{fullhash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{bibnamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authorbibnamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authornamehash}{33c40636d7f8402ddae780a3feac1e68}
+      \strng{authorfullhash}{33c40636d7f8402ddae780a3feac1e68}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PIKO-Brief}
+      \field{number}{4}
+      \field{title}{Merkmale ,,guten'' Physikunterrichts}
+      \field{year}{2010}
+    \endentry
     \entry{Gagne}{inbook}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=236bb2626422f9949fdccafeaa2189ba}{%
@@ -1844,8 +1902,13 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Das {{Modell}} Der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} Für Naturwissenschaftsdidaktische {{Forschung}} Und {{Entwicklung}}.}
+      \field{journaltitle}{Zeitschrift für Didaktik der Naturwissenschaften}
+      \field{number}{Heft 3}
+      \field{title}{Das {{Modell}} der {{Didaktischen Rekonstruktion}} - {{Ein Rahmen}} für naturwissenschaftsdidaktische {{Forschung}} und {{Entwicklung}}.}
+      \field{volume}{Jg. 3}
       \field{year}{1997}
+      \field{pages}{3\bibrangedash 18}
+      \range{pages}{16}
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/WESD5ARR/S.3-18_Kattmann_Duit_Gropengiesser_Komorek_97_H3-2.pdf
       \endverb
@@ -2163,16 +2226,16 @@
     \endentry
     \entry{KMK}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bd398e40d2fdec4326fff4e608728f41}{%
-           family={{KMK -- Ständige Konferenz der Kultusminister in der Bundesrepublik Deutschland}},
+        {{un=0,uniquepart=base,hash=5d8a1628bcfa940abd620ebd64312897}{%
+           family={KMK},
            familyi={K\bibinitperiod}}}%
       }
-      \strng{namehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{fullhash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{bibnamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authorbibnamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authornamehash}{bd398e40d2fdec4326fff4e608728f41}
-      \strng{authorfullhash}{bd398e40d2fdec4326fff4e608728f41}
+      \strng{namehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{fullhash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{bibnamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authorbibnamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authornamehash}{5d8a1628bcfa940abd620ebd64312897}
+      \strng{authorfullhash}{5d8a1628bcfa940abd620ebd64312897}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
@@ -2232,6 +2295,56 @@
       \endverb
       \verb{file}
       \verb /Users/juliushlawatsch/Zotero/storage/XY9TJKS8/Krathwohl - 2002 - A Revision of Bloom's Taxonomy An Overview.pdf
+      \endverb
+    \endentry
+    \entry{LambuddeMetzger}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=d2bd83f2385b35682073a72f11eec744}{%
+           family={Labudde},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e0f70976bd63e10cc0d81758f6aaab7}{%
+           family={Metzger},
+           familyi={M\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart, Deutschland}%
+      }
+      \list{publisher}{1}{%
+        {utb GmbH}%
+      }
+      \strng{namehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{fullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{bibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editorbibnamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editornamehash}{cb90f2390aebe56570aa3dfb0612c434}
+      \strng{editorfullhash}{cb90f2390aebe56570aa3dfb0612c434}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Konkrete Unterrichtsbeispiele und fachdidaktische Tipps -- ,,Fachdidaktik Naturwissenschaft`` enthält beides: Pro Doppelseite wird jeweils links die naturwissenschaftsdidaktische Theorie vorgestellt, während rechts entsprechende unterrichtspraktische Umsetzungsmöglichkeiten präsentiert werden. In 18 Kapiteln werden zentrale fachdidaktische Themen für die Praxis aufgearbeitet.}
+      \field{edition}{3}
+      \field{isbn}{978-3-8385-5207-1}
+      \field{langid}{ngerman}
+      \field{month}{8}
+      \field{shorttitle}{{Fachdidaktik Naturwissenschaft}}
+      \field{title}{{Fachdidaktik Naturwissenschaft: 1.- 9. Schuljahr}}
+      \field{urlday}{22}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.36198/9783838552071
       \endverb
     \endentry
     \entry{Landherr}{book}{}
@@ -2432,6 +2545,8 @@
       \field{title}{Modellieren -- Schlüsselfähigkeit für physikalische Forschungs- und Lernprozesse}
       \field{volume}{1}
       \field{year}{2005}
+      \field{pages}{30\bibrangedash 45}
+      \range{pages}{16}
     \endentry
     \entry{Muckenfuss}{book}{}
       \name{author}{1}{}{%
@@ -2628,10 +2743,10 @@
            givenun=0}}%
       }
       \list{location}{1}{%
-        {Braunschweig}%
+        {Braunschweit}%
       }
       \list{publisher}{1}{%
-        {???}%
+        {Westermann}%
       }
       \strng{namehash}{626aad55e2fb2bb743ac63a1b88d0ec2}
       \strng{fullhash}{626aad55e2fb2bb743ac63a1b88d0ec2}
@@ -2647,8 +2762,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Die pädagogische Dimension der {P}hysik}
-      \field{year}{1962}
+      \field{isbn}{978-3-141-60159-6}
+      \field{title}{Die pädagogische Dimension der Physik}
+      \field{year}{1971}
     \endentry
     \entry{WagenscheinNSV}{book}{}
       \name{author}{1}{}{%
@@ -2659,8 +2775,11 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
       }
+      \list{location}{1}{%
+        {Bern}%
+      }
       \list{publisher}{1}{%
-        {???}%
+        {hep der bildungsverlag}%
       }
       \strng{namehash}{626aad55e2fb2bb743ac63a1b88d0ec2}
       \strng{fullhash}{626aad55e2fb2bb743ac63a1b88d0ec2}
@@ -2676,8 +2795,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Naturphänomene sehen und verstehen}
-      \field{year}{?}
+      \field{isbn}{978-3-035-51014-0}
+      \field{title}{Naturphänomene sehen und verstehen - genetische Lehrgänge : das Wagenschein-Studienbuch}
+      \field{year}{2009}
     \endentry
     \entry{Weinert}{book}{}
       \name{editor}{1}{}{%
@@ -2768,7 +2888,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{LabuddeMetzger}
 \endrefsection
 \endinput
 

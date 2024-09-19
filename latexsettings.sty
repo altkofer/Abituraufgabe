@@ -91,7 +91,7 @@ style=apa
 \usepackage{multirow} % Zellen verschmelzen in Tabellen
 
 \newcommand{\fremdspr}[2]{#1: \textit{#2}}
-\usepackage{xcolor}
+\usepackage[table,xcdraw]{xcolor}
 \definecolor{ubt_gruen}{RGB}{0,146,96}
 \definecolor{ubt_bg}{RGB}{235,235,228}
 \definecolor{ubt_orange}{RGB}{255,183,44}
@@ -184,9 +184,10 @@ style=apa
 {colback=ubt_bg,colframe=ubt_orange,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Übungsaufgabe, beforeafter skip=0.75\baselineskip}
 
 \newtcolorbox{beisp}%
-{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiel(e), beforeafter skip=0.75\baselineskip}
+{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiel, beforeafter skip=0.75\baselineskip}
 
-
+\newtcolorbox{beisp2}%
+{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiele, beforeafter skip=0.75\baselineskip}
 
 
 
