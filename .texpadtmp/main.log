@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  20 SEP 2024 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  20 SEP 2024 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1081,7 +1081,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks40
 \@floatcapt=\box63
 )
-Package scrhack Info: loading float hack on input line 122.
+Package scrhack Info: loading float hack on input line 123.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/float.hak
 File: float.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package float)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/koma-script/tocbasic.sty
@@ -1468,7 +1468,7 @@ package with kernel methods
 )
 Package scrhack Info: hyperref hack deactivated because of
 (scrhack)             detection of hyperref version, that doesn't
-(scrhack)             need that hack, on input line 149.
+(scrhack)             need that hack, on input line 150.
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
@@ -1905,7 +1905,7 @@ Package hyperref Info: Link coloring OFF on input line 11.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Bilder/Logo_physikdidaktik_long.png, id=549, 2935.6074pt x 692.3466pt>
+<Bilder/Logo_physikdidaktik_long.png, id=553, 2935.6074pt x 692.3466pt>
 File: Bilder/Logo_physikdidaktik_long.png Graphic file (type png)
 <use Bilder/Logo_physikdidaktik_long.png>
 Package pdftex.def Info: Bilder/Logo_physikdidaktik_long.png  used on input line 19.
@@ -1972,21 +1972,21 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/it' in size <10.95> not availa
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
 (Font)              scaled to size 10.95pt on input line 65.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/sl' tried instead on input line 69.
+(Font)              Font shape `T1/FiraSans-OsF/regular/sl' tried instead on input line 72.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/sl' in size <10.95> not available
-(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 69.
+(Font)              Font shape `T1/FiraSans-OsF/regular/it' tried instead on input line 72.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 69.
+(Font)              scaled to size 10.95pt on input line 72.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
@@ -1994,53 +1994,46 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+FiraSans-OsF on input line 79.
+LaTeX Font Info:    Trying to load font information for TS1+FiraSans-OsF on input line 82.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/fira/TS1FiraSans-OsF.fd
 File: TS1FiraSans-OsF.fd 2019/10/10 (autoinst) Font definitions for TS1/FiraSans-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 79.
+(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 79.
+(Font)              scaled to size 10.95pt on input line 82.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `FiraSans-OsF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<Bilder/Layout.png, id=566, 632.253pt x 381.279pt>
+<Bilder/Layout.png, id=570, 632.253pt x 381.279pt>
 File: Bilder/Layout.png Graphic file (type png)
 <use Bilder/Layout.png>
-Package pdftex.def Info: Bilder/Layout.png  used on input line 95.
+Package pdftex.def Info: Bilder/Layout.png  used on input line 98.
 (pdftex.def)             Requested size: 379.35474pt x 228.76915pt.
  [3{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fira/fir_d67aat.enc} <./Bilder/Layout.png>] [4
 
 ] (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.toc [5] [6]
-Overfull \hbox (0.93073pt too wide) detected at line 93
+Overfull \hbox (0.93073pt too wide) detected at line 97
  []\T1/FiraSans-OsF/regular/n/10.95 100
  []
 
 
-Overfull \hbox (0.20802pt too wide) detected at line 104
+Overfull \hbox (0.20802pt too wide) detected at line 108
  []\T1/FiraSans-OsF/regular/n/10.95 106
  []
 
 
-Overfull \hbox (0.32846pt too wide) detected at line 105
+Overfull \hbox (0.32846pt too wide) detected at line 109
  []\T1/FiraSans-OsF/regular/n/10.95 108
  []
 
 
-Overfull \hbox (0.32846pt too wide) detected at line 106
+Overfull \hbox (0.32846pt too wide) detected at line 110
  []\T1/FiraSans-OsF/regular/n/10.95 108
  []
 
-[7]
-
-LaTeX Warning: Citation '' on page 8 undefined on input line 135.
-
-
-LaTeX Warning: Citation '' on page 8 undefined on input line 136.
-
-)
+[7])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -2106,12 +2099,6 @@ Overfull \hbox (6.72984pt too wide) in paragraph at lines 27--28
 
 ]
 Kapitel 4.
-
-LaTeX Warning: Citation 'JankMeyer' on page 17 undefined on input line 7.
-
-
-LaTeX Warning: Citation '' on page 17 undefined on input line 7.
-
 [17]
 Overfull \hbox (9.65422pt too wide) in paragraph at lines 65--66
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) legt stär-ke-ren Wert auf die kri-ti-sche Re-fle-xi-on von Lehr-Lern-Prozessen,
@@ -2122,9 +2109,6 @@ Overfull \hbox (9.65422pt too wide) in paragraph at lines 65--66
 
  (./Kapitel/5_guter_UR.tex
 Kapitel 5.
-
-LaTeX Warning: Citation 'piko4' on page 19 undefined on input line 25.
-
 [19
 
 
@@ -2143,11 +2127,7 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <6> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
 (Font)              scaled to size 6.0pt on input line 45.
-
-
-LaTeX Warning: Citation 'Klieme' on page 20 undefined on input line 45.
-
-[20] [21]) [22]
+ [20] [21]) [22]
 \openout2 = `Kapitel/6_bildungsstandards.aux'.
 
  (./Kapitel/6_bildungsstandards.tex)
@@ -2163,44 +2143,7 @@ Kapitel 6.
 
 
 
-]
-
-LaTeX Warning: Citation 'KircherGirwidzHaussler1' on page 24 undefined on input line 78.
-
-
-LaTeX Warning: Citation '' on page 24 undefined on input line 78.
-
-[24]
-
-LaTeX Warning: Citation 'Krathwohl' on page 25 undefined on input line 117.
-
-
-LaTeX Warning: Citation '' on page 25 undefined on input line 117.
-
-
-LaTeX Warning: Citation 'Krathwohl' on page 25 undefined on input line 117.
-
-
-LaTeX Warning: Citation '' on page 25 undefined on input line 117.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[] \T1/FiraSans-OsF/regular/n/10.95 (+20) Ta-bel-le 6.1: |Dar-stel-lung der Ta-xo-no-mie nach An-der-son und
- []
-
-
-LaTeX Warning: Citation 'Bloom' on page 25 undefined on input line 120.
-
-
-LaTeX Warning: Citation '' on page 25 undefined on input line 120.
-
-
-LaTeX Warning: Citation 'Krathwohl' on page 25 undefined on input line 120.
-
-
-LaTeX Warning: Citation '' on page 25 undefined on input line 120.
-
-[25]
+] [24] [25]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <12> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 124.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
@@ -2210,69 +2153,40 @@ LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <12> not available
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 124.
  [26]
-
-LaTeX Warning: Citation 'Gagne' on page 27 undefined on input line 163.
-
-
-LaTeX Warning: Citation '' on page 27 undefined on input line 163.
-
-
-Overfull \hbox (28.73004pt too wide) in paragraph at lines 163--165
-\T1/FiraSans-OsF/regular/n/10.95 (-20) Ma-ger und [][]. Hier darf das Lern-ziel kei-nen Interpretations-
- []
-
-
 Underfull \hbox (badness 3219) in paragraph at lines 183--190
 []\T1/FiraSans-OsF/bold/n/10.95 (+20) In Re-in-form (bei-na-he über-trie-ben, aber als Übung und für
  []
 
 [27]
-
-LaTeX Warning: Citation 'KMK' on page 28 undefined on input line 195.
-
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/it' in size <10.95> not available
 (Font)              Font shape `T1/FiraSans-OsF/bold/it' tried instead on input line 200.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/it' will be
 (Font)              scaled to size 10.95pt on input line 200.
-
-LaTeX Warning: Citation 'Weinert' on page 28 undefined on input line 200.
-
-
-LaTeX Warning: Citation '' on page 28 undefined on input line 200.
-
-[28]) [29]
+ [28]
+<Bilder/abitur.png, id=931, 593.21625pt x 321.2pt>
+File: Bilder/abitur.png Graphic file (type png)
+<use Bilder/abitur.png>
+Package pdftex.def Info: Bilder/abitur.png  used on input line 226.
+(pdftex.def)             Requested size: 258.56639pt x 140.00513pt.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' in size <8> not available
+(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 231.
+LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 231.
+ [29 <./Bilder/abitur.png>]) [30]
 \openout2 = `Kapitel/8_schuelervorst.aux'.
 
- (./Kapitel/8_schuelervorst.tex [30
-
-
-
-
-]
+ (./Kapitel/8_schuelervorst.tex
 Kapitel 7.
-
-LaTeX Warning: Citation 'JankMeyer' on page 31 undefined on input line 6.
-
-
-LaTeX Warning: Citation '' on page 31 undefined on input line 6.
-
-[31] [32] [33]
-
-LaTeX Warning: Citation 'Nachtigall' on page 34 undefined on input line 92.
+[31
 
 
-LaTeX Warning: Citation '' on page 34 undefined on input line 92.
 
-[34] [35]
-LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/m/n' in size <8> not available
-(Font)              Font shape `TS1/FiraSans-OsF/regular/n' tried instead on input line 165.
-LaTeX Font Info:    Font shape `TS1/FiraSans-OsF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 165.
- [36]
 
-LaTeX Warning: Citation 'DuitEnergie' on page 37 undefined on input line 203.
-
-[37] [38]) [39]
+] [32] [33] [34] [35] [36] [37] [38]) [39]
 \openout2 = `Kapitel/9_aufber.aux'.
 
  (./Kapitel/9_aufber.tex [40
@@ -2288,7 +2202,7 @@ Overfull \hbox (25.52614pt too wide) in paragraph at lines 3--3
  []
 
 [41]
-<Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png, id=976, 2569.6pt x 1977.3875pt>
+<Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png, id=1028, 2569.6pt x 1977.3875pt>
 File: Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png Graphic file (type png)
 <use Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png>
 Package pdftex.def Info: Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png  used on input line 49.
@@ -2299,21 +2213,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
  []
 
 [42 <./Bilder/Bewegter_Leiter_im_Feld-Feldlinienbild.svg.png>]
-<Bilder/elementarisierung.png, id=997, 353.247pt x 229.731pt>
+<Bilder/elementarisierung.png, id=1048, 353.247pt x 229.731pt>
 File: Bilder/elementarisierung.png Graphic file (type png)
 <use Bilder/elementarisierung.png>
 Package pdftex.def Info: Bilder/elementarisierung.png  used on input line 65.
 (pdftex.def)             Requested size: 199.16928pt x 129.53183pt.
-
-
-LaTeX Warning: Citation 'KircherGirwidzHaussler1' on page 43 undefined on input line 69.
-
-<Bilder/ohm.png, id=999, 367.263pt x 467.565pt>
+<Bilder/ohm.png, id=1051, 367.263pt x 467.565pt>
 File: Bilder/ohm.png Graphic file (type png)
 <use Bilder/ohm.png>
 Package pdftex.def Info: Bilder/ohm.png  used on input line 75.
 (pdftex.def)             Requested size: 323.20677pt x 411.48701pt.
-[43 <./Bilder/elementarisierung.png>] [44 <./Bilder/ohm.png>] [45]
+ [43 <./Bilder/elementarisierung.png>] [44 <./Bilder/ohm.png>] [45]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
@@ -2334,19 +2244,7 @@ Underfull \hbox (badness 2913) in paragraph at lines 412--414
 
 Underfull \vbox (badness 4144) has occurred while \output is active []
 
- [50]
-
-LaTeX Warning: Citation 'Kattmann' on page 51 undefined on input line 461.
-
-
-LaTeX Warning: Citation '' on page 51 undefined on input line 461.
-
-
-Overfull \hbox (15.2144pt too wide) in paragraph at lines 461--462
-\T1/FiraSans-OsF/regular/n/10.95 (-20) Das Mo-dell der \T1/FiraSans-OsF/regular/it/10.95 (-20) Di-dak-ti-schen Re-kon-struk-ti-on \T1/FiraSans-OsF/regular/n/10.95 (-20) nach [][]
- []
-
-[51] [52]
+ [50] [51] [52]
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/m/n' in size <10> not available
 (Font)              Font shape `T1/FiraSans-OsF/regular/n' tried instead on input line 538.
 LaTeX Font Info:    Font shape `T1/FiraSans-OsF/regular/n' will be
@@ -2357,13 +2255,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 552--552
  []
 
 
-LaTeX Warning: Citation 'Stoecker' on page 53 undefined on input line 560.
-
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/b/n' in size <10> not available
-(Font)              Font shape `T1/FiraSans-OsF/bold/n' tried instead on input line 560.
-LaTeX Font Info:    Font shape `T1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 560.
-
 Underfull \hbox (badness 10000) in paragraph at lines 568--569
 []|\T1/FiraSans-OsF/regular/n/10 (+20) Turbidimetrie (Trü-bungs-mes-
  []
@@ -2373,14 +2264,7 @@ Overfull \hbox (10.89612pt too wide) in paragraph at lines 579--603
  [] 
  []
 
-[53]
-
-LaTeX Warning: Citation 'MichelskisSeifertThieleWÃ¼nscher' on page 54 undefined on input line 637.
-
-
-LaTeX Warning: Citation '' on page 54 undefined on input line 637.
-
-[54]
+[53] [54]
 Overfull \hbox (28.05074pt too wide) in paragraph at lines 664--665
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Tellurium (Me-cha-ni-sches Mo-dell des Erde-Mond-Sonnensystems), 
  []
@@ -2421,7 +2305,7 @@ Overfull \hbox (3.4681pt too wide) in paragraph at lines 289--293
  []
 
 [64]
-<Bilder/Artikulationsschema.png, id=1145, 824.973pt x 334.194pt>
+<Bilder/Artikulationsschema.png, id=1202, 824.973pt x 334.194pt>
 File: Bilder/Artikulationsschema.png Graphic file (type png)
 <use Bilder/Artikulationsschema.png>
 Package pdftex.def Info: Bilder/Artikulationsschema.png  used on input line 335.
@@ -2432,10 +2316,6 @@ Overfull \hbox (56.82602pt too wide) in paragraph at lines 335--336
  []
 
 [65 <./Bilder/Artikulationsschema.png>]
-
-LaTeX Warning: Citation 'BleichrothDahnckeJung' on page 66 undefined on input line 437.
-
-
 Overfull \hbox (8.88765pt too wide) in paragraph at lines 449--452
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Induktive Er-ar-bei-tung ei-nes Ge-set-zes im Ex-pe-ri-ment (Hoo-ke'sches
  []
@@ -2445,25 +2325,7 @@ Overfull \hbox (6.12822pt too wide) in paragraph at lines 475--478
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Anwendung in Na-tur, All-tag und Tech-nik (Ver-duns-tung $\OMS/cmsy/m/n/10.95 !$ \T1/FiraSans-OsF/regular/n/10.95 (-20) Schweiÿ-
  []
 
-[67]
-
-LaTeX Warning: Citation 'DuitHausslerKircher' on page 68 undefined on input line 522.
-
-
-LaTeX Warning: Citation '' on page 68 undefined on input line 522.
-
-
-LaTeX Warning: Citation 'Ploeger' on page 68 undefined on input line 522.
-
-
-LaTeX Warning: Citation '' on page 68 undefined on input line 522.
-
-
-Overfull \hbox (111.9663pt too wide) in paragraph at lines 522--523
-[]\T1/FiraSans-OsF/regular/n/10.95 (-20) Weiterentwicklungen des Nor-mal-ver-fah-rens fin-den sich bei [][],
- []
-
-[68] [69]
+[67] [68] [69]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [70]
@@ -2484,17 +2346,7 @@ Overfull \hbox (68.09319pt too wide) in paragraph at lines 917--937
 [][] 
  []
 
-[74]
-
-LaTeX Warning: Citation 'DuitHausslerKircher' on page 75 undefined on input line 985.
-
-
-LaTeX Warning: Citation 'WagenscheinNSV' on page 75 undefined on input line 989.
-
-
-LaTeX Warning: Citation 'WagenscheinPDP' on page 75 undefined on input line 997.
-
-[75]
+[74] [75]
 Overfull \hbox (1.28958pt too wide) in paragraph at lines 1061--1063
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Soziale Bil-dung: Aus-bil-dungs-ziel in der (Berufs-)Schule ist der ,,Staats-
  []
@@ -2519,14 +2371,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 120--121
 [][] 
  []
 
-[83]
-
-LaTeX Warning: Citation 'DuitHausslerKircher' on page 84 undefined on input line 190.
-
-
-LaTeX Warning: Citation 'BleichrothDahnckeJung' on page 84 undefined on input line 192.
-
-[84]
+[83] [84]
 Overfull \hbox (1.1281pt too wide) in paragraph at lines 220--226
 \T1/FiraSans-OsF/regular/n/10.95 (-20) ver-schie-de-nen Leh-rern un-ter-rich-tet. Or-ga-ni-sa-to-ri-sche Auf-ga-ben über-
  []
@@ -2546,37 +2391,18 @@ Overfull \hbox (10.56657pt too wide) in paragraph at lines 270--274
 []\T1/FiraSans-OsF/regular/n/10.95 (-20) Sie wird ver-wirk-licht durch Wahl-an-ge-bo-te (Ma-te-ri-al-ti-sche, Lernthe-
  []
 
-[86] [87] [88] [89] [90] [91] [92] [93] [94]
-
-LaTeX Warning: Citation 'Klippert' on page 95 undefined on input line 810.
-
-
-LaTeX Warning: Citation 'Landherr' on page 95 undefined on input line 810.
-
-
-LaTeX Warning: Citation 'DeciRyan' on page 95 undefined on input line 828.
-
-
-LaTeX Warning: Citation '' on page 95 undefined on input line 828.
-
-[95]) [96]
+[86] [87] [88] [89] [90] [91] [92] [93] [94] [95]) [96]
 \openout2 = `Kapitel/12_unterrichtsentwurf.aux'.
 
  (./Kapitel/12_unterrichtsentwurf.tex
 Kapitel 11.
-
-LaTeX Warning: Citation 'kircherPlanungUndAnalyse2015' on page 97 undefined on input line 3.
-
-
-LaTeX Warning: Citation '' on page 97 undefined on input line 3.
-
 [97
 
 
 
 
 ]
-<Bilder/Unterrichtsskizze_02.png, id=1353, 2250.4075pt x 1192.455pt>
+<Bilder/Unterrichtsskizze_02.png, id=1429, 2250.4075pt x 1192.455pt>
 File: Bilder/Unterrichtsskizze_02.png Graphic file (type png)
 <use Bilder/Unterrichtsskizze_02.png>
 Package pdftex.def Info: Bilder/Unterrichtsskizze_02.png  used on input line 51.
@@ -2612,7 +2438,7 @@ Kapitel 13.
 
 
 ] [110]
-<Bilder/SAMR-Puentedura-deutsch.png, id=1426, 630.1944pt x 341.1144pt>
+<Bilder/SAMR-Puentedura-deutsch.png, id=1503, 630.1944pt x 341.1144pt>
 File: Bilder/SAMR-Puentedura-deutsch.png Graphic file (type png)
 <use Bilder/SAMR-Puentedura-deutsch.png>
 Package pdftex.def Info: Bilder/SAMR-Puentedura-deutsch.png  used on input line 191.
@@ -2686,50 +2512,7 @@ LaTeX Font Warning: Font shape `U/fontawesomefree1/refular/n' undefined
 
 LaTeX Font Info:    Font shape `U/fontawesomefree1/m/n' in size <10.95> not available
 (Font)              Font shape `U/fontawesomefree1/regular/n' tried instead on input line 2.
-
-LaTeX Warning: Citation 'KircherGirwidzHaussler1' on page 123 undefined on input line 7.
-
-
-LaTeX Warning: Citation 'KircherGirwidzHaussler2' on page 123 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'KircherGirwidzHaussler3' on page 123 undefined on input line 9.
-
-
-LaTeX Warning: Citation 'KircherSchneider' on page 123 undefined on input line 10.
-
-
-LaTeX Warning: Citation 'LambuddeMetzger' on page 123 undefined on input line 15.
-
-
-LaTeX Warning: Citation 'Schecker' on page 123 undefined on input line 16.
-
-
-LaTeX Warning: Citation 'Wilhelm' on page 123 undefined on input line 17.
-
-
-LaTeX Warning: Citation 'Boxer' on page 123 undefined on input line 18.
-
-
-LaTeX Warning: Citation 'JPMeyn' on page 123 undefined on input line 19.
-
-
-LaTeX Warning: Citation 'Muckenfuss' on page 123 undefined on input line 20.
-
-
-LaTeX Warning: Citation 'JankMeyer' on page 123 undefined on input line 26.
-
-
-LaTeX Warning: Citation 'MeyerUMT' on page 123 undefined on input line 27.
-
-
-LaTeX Warning: Citation 'MeyerUMP' on page 123 undefined on input line 28.
-
-[123{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-
-LaTeX Warning: Citation 'Hattie' on page 124 undefined on input line 32.
-
-) [124]
+[123{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]) [124]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -2762,28 +2545,80 @@ LaTeX Warning: Citation 'Hattie' on page 124 undefined on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+ [125
 
 
-LaTeX Warning: Empty bibliography on input line 131.
 
+
+] [126]
 \openout2 = `Kapitel/appendix.aux'.
 
-(./Kapitel/appendix.tex
+ (./Kapitel/appendix.tex
 Anhang A.
 
 
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, id=1617, 597.50829pt x 845.0471pt>
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf  used on input line 4.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf  used on input line 4.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, id=1620, page=7, 597.50829pt x 845.0471pt>
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, page 7>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf , page7 used on input line 4.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, page 7>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf , page7 used on input line 4.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[127
+
+
+]
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, page 7>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf , page7 used on input line 4.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, page 7>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf , page7 used on input line 4.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf Graphic file (type pdf)
+<use Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf, page 7>
+Package pdftex.def Info: Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf , page7 used on input line 4.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [128
+
+ <./Bilder/ISB_Gute_Aufgaben_im_Physikunterricht.pdf>]
+Anhang B.
+
+
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1512, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1667, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf  used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf  used on input line 7.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf  used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf  used on input line 7.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -2791,96 +2626,74 @@ pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1515, page=1, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1670, page=1, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[125
-
-
-
-
+[129
 
 ]
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 1>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
- [126
+ [130
 
  <./Bilder/Verblisten_Kompetenz.pdf>]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/Verblisten_Kompetenz.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Bilder/Verblisten_Kompetenz.pdf, id=1556, page=2, 597.55246pt x 845.07718pt>
+<Bilder/Verblisten_Kompetenz.pdf, id=1710, page=2, 597.55246pt x 845.07718pt>
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 2>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 2>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: Bilder/Verblisten_Kompetenz.pdf Graphic file (type pdf)
 <use Bilder/Verblisten_Kompetenz.pdf, page 2>
-Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 3.
+Package pdftex.def Info: Bilder/Verblisten_Kompetenz.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
-[127
+[131
 
- <./Bilder/Verblisten_Kompetenz.pdf>] [128
-
-]
-Anhang B.
-[129] [130
+ <./Bilder/Verblisten_Kompetenz.pdf>] [132
 
 ]
 Anhang C.
+<Bilder/BerlinerModell1.jpg, id=1731, 501.875pt x 602.25pt>
+File: Bilder/BerlinerModell1.jpg Graphic file (type jpg)
+<use Bilder/BerlinerModell1.jpg>
+Package pdftex.def Info: Bilder/BerlinerModell1.jpg  used on input line 11.
+(pdftex.def)             Requested size: 284.52756pt x 341.44815pt.
+[133 <./Bilder/BerlinerModell1.jpg>] [134
 
-LaTeX Warning: Citation 'DuitHausslerKircher' on page 131 undefined on input line 9.
-
-
-LaTeX Warning: Citation '' on page 131 undefined on input line 9.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textcite' on input line 9.
-
-
-LaTeX Warning: Citation 'Ploeger' on page 131 undefined on input line 28.
-
-
-LaTeX Warning: Citation '' on page 131 undefined on input line 28.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\textcite' on input line 28.
-
-
-LaTeX Warning: Citation 'Ploeger' on page 131 undefined on input line 30.
-
-
-LaTeX Warning: Citation '' on page 131 undefined on input line 30.
-
-
-Overfull \hbox (30.16402pt too wide) in paragraph at lines 29--33
-\T1/FiraSans-OsF/regular/n/10.95 (-20) Konkret, an-wen-dungs-nah und auf den Punkt ge-bracht wird die-ses Kon-zept in [][]
- []
-
-[131] [132]
+]
 Anhang D.
-) [133
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\textcite' on input line 16.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\textcite' on input line 35.
+
+[135] [136]
+Anhang E.
+) [137
 
 ] (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.aux (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/1_denk.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/2_begr.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/3_erkenntnis.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/4_did_modelle.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/5_guter_UR.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/6_bildungsstandards.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/7_lernziele.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/8_schuelervorst.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/9_aufber.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/10_strukturierung_JH.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/11_methoden.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/12_unterrichtsentwurf.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/13_experimentieren.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/14_medien.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/15_schulprofile.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/16_literatur.aux) (/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/Kapitel/appendix.aux))
  ***********
@@ -2891,33 +2704,25 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E9EC74ADB190453EF05D7197C71E8328;28067.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: AA52BED70F6BCA264D09ECF14B547E63;28324.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 63195 strings out of 474116
- 1355022 string characters out of 5743682
- 2464539 words of memory out of 5000000
- 83498 multiletter control sequences out of 15000+600000
- 920182 words of font info for 455 fonts, out of 8000000 for 9000
+ 63570 strings out of 474116
+ 1365879 string characters out of 5743682
+ 2466115 words of memory out of 5000000
+ 83828 multiletter control sequences out of 15000+600000
+ 906003 words of font info for 455 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  123i,20n,131p,1106b,7353s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-BoldItalic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.pdf (133 pages, 3827362 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-BoldItalic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fira/FiraSans-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.pdf (137 pages, 4150855 bytes).
 PDF statistics:
- 1797 PDF objects out of 2073 (max. 8388607)
- 1586 compressed objects within 16 object streams
- 511 named destinations out of 1000 (max. 500000)
- 97414 words of extra memory for PDF output out of 106986 (max. 10000000)
+ 1969 PDF objects out of 2073 (max. 8388607)
+ 1732 compressed objects within 18 object streams
+ 562 named destinations out of 1000 (max. 500000)
+ 96940 words of extra memory for PDF output out of 106986 (max. 10000000)
 

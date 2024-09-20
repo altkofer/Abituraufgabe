@@ -8,7 +8,7 @@
 \contentsline {chapter}{\numberline {5}Merkmale guten Unterrichts}{19}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Die internationale Schulleistungsstudie PISA}{19}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Basisdimensionen guten Unterrichts}{20}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Die IPN Interessenstudie Physik ({\glqq }Kieler{\grqq } Interessenstudie)}{20}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Die IPN Interessenstudie Physik ({\glqq }Kieler{\grqq } Interessenstudie)}{21}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Die Hattie-Studie}{21}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Lernziele}{23}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Lernen ordnen: Zum Begriff des Lernziels}{23}{section.6.1}%
@@ -19,6 +19,10 @@
 \contentsline {subsection}{\numberline {6.4.2}Zur Dimension kognitiver Prozesse}{26}{subsection.6.4.2}%
 \contentsline {subsection}{\numberline {6.4.3}Operationalisierung}{27}{subsection.6.4.3}%
 \contentsline {section}{\numberline {6.5}Bildungsstandards und die KMK}{28}{section.6.5}%
+\contentsline {paragraph}{Sachkompetenz:}{29}{section*.8}%
+\contentsline {paragraph}{Erkenntnisgewinnungskompetenz:}{29}{section*.9}%
+\contentsline {paragraph}{Kommunikationskompetenz:}{29}{section*.10}%
+\contentsline {paragraph}{Bewertungskompetenz:}{29}{section*.11}%
 \contentsline {chapter}{\numberline {7}Sch{\"u}lervorstellungen und Konzeptwechsel}{31}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Konstruktivismus}{31}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Sch{\"u}lervorstellungen -- Begriff und Ursachen}{32}{section.7.2}%
@@ -55,8 +59,8 @@
 \contentsline {subsection}{\numberline {9.4.4}Historisierender Unterricht}{77}{subsection.9.4.4}%
 \contentsline {subsection}{\numberline {9.4.5}Sinnvoll \"{u}bernehmender Unterricht nach Ausubel (1974)}{78}{subsection.9.4.5}%
 \contentsline {subsection}{\numberline {9.4.6}Induktiv-deduktives Verfahren}{78}{subsection.9.4.6}%
-\contentsline {subsubsection}{Das induktive Verfahren}{79}{section*.28}%
-\contentsline {subsubsection}{Das deduktive Verfahren}{80}{section*.29}%
+\contentsline {subsubsection}{Das induktive Verfahren}{79}{section*.32}%
+\contentsline {subsubsection}{Das deduktive Verfahren}{80}{section*.33}%
 \contentsline {chapter}{\numberline {10}Methodische Gestaltung des Unterrichts}{81}{chapter.10}%
 \contentsline {section}{\numberline {10.1}Handlungs- oder Aktionsformen}{81}{section.10.1}%
 \contentsline {subsection}{\numberline {10.1.1}Vortrag}{81}{subsection.10.1.1}%
@@ -127,12 +131,13 @@
 \contentsline {section}{\numberline {14.2}Das Profil der Realschule}{120}{section.14.2}%
 \contentsline {chapter}{\numberline {15}Literaturempfehlung zur Vorlesungen}{123}{chapter.15}%
 \contentsline {section}{\numberline {15.1}Fachdidaktische Grundlagenbücher}{123}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Schulpädagogische Werke}{123}{section.15.2}%
+\contentsline {section}{\numberline {15.2}Schulpädagogische Werke}{124}{section.15.2}%
 \contentsline {section}{\numberline {15.3}Zeitschriften}{124}{section.15.3}%
-\contentsline {chapter}{\numberline {A}Verblisten für Operationalisierte Lernziele}{125}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Berliner Modell}{129}{appendix.B}%
-\contentsline {chapter}{\numberline {C}Weitere Artikulationsschemata}{131}{appendix.C}%
-\contentsline {section}{\numberline {C.1}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{131}{section.C.1}%
-\contentsline {section}{\numberline {C.2}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{131}{section.C.2}%
-\contentsline {section}{\numberline {C.3}H.F.\ Bauer: Experimentalunterricht (1984)}{131}{section.C.3}%
-\contentsline {chapter}{\numberline {D}Beispiel einer didaktischen Analyse}{133}{appendix.D}%
+\contentsline {chapter}{\numberline {A}Teilkompetenzen der KMK-Bildungsstandards}{127}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Verblisten für Operationalisierte Lernziele}{129}{appendix.B}%
+\contentsline {chapter}{\numberline {C}Berliner Modell}{133}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Weitere Artikulationsschemata}{135}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Grob-Phasen gem\"{a}{\ss } \blx@tocontentsinit {0}\textcite {DuitHausslerKircher}}{135}{section.D.1}%
+\contentsline {section}{\numberline {D.2}\blx@tocontentsinit {0}\textcite {Ploeger}: Forschender Physikunterricht}{135}{section.D.2}%
+\contentsline {section}{\numberline {D.3}H.F.\ Bauer: Experimentalunterricht (1984)}{135}{section.D.3}%
+\contentsline {chapter}{\numberline {E}Beispiel einer didaktischen Analyse}{137}{appendix.E}%
