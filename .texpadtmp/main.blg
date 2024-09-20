@@ -1,34 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.blg'
-[27] biber-darwin:340> INFO - === Thu Sep 19, 2024, 15:30:34
-[35] Biber.pm:419> INFO - Reading '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf'
-[75] Biber.pm:979> INFO - Found 35 citekeys in bib section 0
-[84] Biber.pm:4419> INFO - Processing section 0
-[90] Biber.pm:4610> INFO - Looking for bibtex file '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/mybib.bib' for section 0
-[91] bibtex.pm:1713> INFO - LaTeX decoding ...
-[118] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/mybib.bib'
-[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[230] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[230] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[230] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[259] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[259] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[259] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'de-DE'
-[259] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
-[273] bbl.pm:660> INFO - Writing '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl' with encoding 'UTF-8'
-[290] bbl.pm:763> INFO - Output to /Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bbl
-[290] Biber.pm:131> WARN - Duplicate entry key: 'JankMeyer' in file '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/mybib.bib', skipping ...
-[290] Biber.pm:131> WARN - ISBN '987-3-589-21566-9' in entry 'JankMeyer' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - ISBN '978-3-407-29318-3 978-3-407-25690-4' in entry 'Weinert' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - ISBN '978-3-642-41744-3 978-3-642-41745-0' in entry 'kircherPlanungUndAnalyse2015' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - ISBN '978-3-662-57269-6 978-3-662-57270-2' in entry 'Schecker' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - ISBN '978-3-662-63052-5 978-3-662-63053-2' in entry 'Wilhelm' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - ISBN '987-1-913622-78-7' in entry 'Boxer' is invalid - run biber with '--validate_datamodel' for details.
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 71, warning: undefined macro "bsv"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 130, warning: undefined macro "Springer"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 136, warning: undefined macro "Springer"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 201, warning: undefined macro "Deubner"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 244, warning: undefined macro "Klett"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 251, warning: undefined macro "Klett"
-[290] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/6p/gcjs5_xj73xd02t2g0j256bm0000gn/T/biber_tmp_oEe5/a8094735c119eb7484f88d2d1d93d883_76203.utf8, line 321, warning: undefined macro "Deubner"
-[290] Biber.pm:133> INFO - WARNINGS: 14
+[28] biber-darwin:340> INFO - === Fri Sep 20, 2024, 13:37:13
+[34] Biber.pm:419> INFO - Reading '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/.texpadtmp/main.bcf'
+[73] Biber.pm:979> INFO - Found 35 citekeys in bib section 0
+[82] Biber.pm:4419> INFO - Processing section 0
+[86] Biber.pm:4610> INFO - Looking for bibtex file '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/mybib.bib' for section 0
+[87] bibtex.pm:1713> INFO - LaTeX decoding ...
+[114] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/juliushlawatsch/local_files/git_repos/fd_a_skript/mybib.bib'
