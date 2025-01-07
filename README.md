@@ -1,1 +1,1 @@
-# fd_a_skript
+# astro_abi_trainer

@@ -8,7 +8,7 @@
 \geometry{
     a4paper,
     left=25mm,
-	right=60mm,
+	right=25mm,
 	top=25mm,
 	bottom=25mm
 }
@@ -73,6 +73,9 @@ style=apa
 %\renewcommand{\thesection}{\Alph{section}}
 %\renewcommand{\thesubsection}{\arabic{subsection}}
 \usepackage{enumitem} % provides user control over the layout of the three basic list environments: enumerate, itemize and description.
+\setlist[enumerate,1]{label=\alph*), ref=\alph*}
+\setlist[enumerate,2]{label=\roman*), ref=\roman*}
+
 \usepackage{pdfpages} % simplifies the inclusion of external multi-page PDF documents in LATEX documents
 \usepackage{amsmath,amssymb,amsfonts}
 
@@ -178,17 +181,12 @@ style=apa
 %Boxen
 \usepackage[breakable, skins]{tcolorbox}
 
-\newtcolorbox{ziele}%
-{colback=ubt_bg,colframe=ubt_gruen,fonttitle=\sffamily\bfseries, coltitle=white, sharp corners, boxrule=2pt, title=Lernziele, after skip=65pt}
+\newtcolorbox{aufgabe}%
+{colback=ubt_bg,colframe=ubt_gruen,fonttitle=\sffamily\bfseries, coltitle=white, sharp corners, boxrule=2pt, title=Aufgabenstellung, after skip=65pt}
 
-\newtcolorbox{uea}%
-{colback=ubt_bg,colframe=ubt_orange,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Übungsaufgabe, beforeafter skip=0.75\baselineskip}
+\newtcolorbox{hinweis}%
+{colback=ubt_bg,colframe=gray,fonttitle=\sffamily\bfseries, coltitle=white, sharp corners, boxrule=2pt, title=Hinweis, after skip=65pt}
 
-\newtcolorbox{beisp}%
-{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiel, beforeafter skip=0.75\baselineskip}
-
-\newtcolorbox{beisp2}%
-{colback=white,colframe=gray!25,fonttitle=\sffamily\bfseries, coltitle=black, breakable, enhanced, sharp corners, boxrule=2pt, title=Beispiele, beforeafter skip=0.75\baselineskip}
 
 
 

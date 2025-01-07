@@ -31,3 +31,11 @@
 %\newcommand{\fullcite}[1]{\citeauthor{#1}: \citetitle{#1}, \citeyear{#1}.}
 
 \newcommand{\bitem}[1]{\item \textbf{#1:}}
+
+\usepackage{titlesec}
+
+\titleformat{\chapter}[hang]
+  {\normalfont\huge\bfseries} % Format des Kapitels
+  {\thechapter.}      % Nummerierung mit "Kapitel"
+  {1em}                       % Abstand zwischen Nummer und Titel
+  {}
